@@ -1,0 +1,3466 @@
+﻿ProvinceID,Province_Name,Year,DSL (Day)
+10,Bangkok,1979,22
+10,Bangkok,1980,9
+10,Bangkok,1981,9
+10,Bangkok,1982,10
+10,Bangkok,1983,10
+10,Bangkok,1984,12
+10,Bangkok,1985,9
+10,Bangkok,1986,9
+10,Bangkok,1987,11
+10,Bangkok,1988,7
+10,Bangkok,1989,8
+10,Bangkok,1990,10
+10,Bangkok,1991,10
+10,Bangkok,1992,10
+10,Bangkok,1993,11
+10,Bangkok,1994,14
+10,Bangkok,1995,10
+10,Bangkok,1996,10
+10,Bangkok,1997,14
+10,Bangkok,1998,11
+10,Bangkok,1999,10
+10,Bangkok,2000,7
+10,Bangkok,2001,13
+10,Bangkok,2002,11
+10,Bangkok,2003,9
+10,Bangkok,2004,17
+10,Bangkok,2005,10
+10,Bangkok,2006,11
+10,Bangkok,2007,16
+10,Bangkok,2008,9
+10,Bangkok,2009,10
+10,Bangkok,2010,11
+10,Bangkok,2011,9
+10,Bangkok,2012,9
+10,Bangkok,2013,9
+10,Bangkok,2014,7
+10,Bangkok,2015,12
+10,Bangkok,2016,15
+10,Bangkok,2017,8
+10,Bangkok,2018,8
+10,Bangkok,2019,12
+10,Bangkok,2020,11
+10,Bangkok,2021,11
+10,Bangkok,2022,12
+10,Bangkok,2023,12
+11,Samut Prakarn,1979,20
+11,Samut Prakarn,1980,9
+11,Samut Prakarn,1981,10
+11,Samut Prakarn,1982,10
+11,Samut Prakarn,1983,11
+11,Samut Prakarn,1984,13
+11,Samut Prakarn,1985,10
+11,Samut Prakarn,1986,9
+11,Samut Prakarn,1987,11
+11,Samut Prakarn,1988,7
+11,Samut Prakarn,1989,7
+11,Samut Prakarn,1990,9
+11,Samut Prakarn,1991,10
+11,Samut Prakarn,1992,9
+11,Samut Prakarn,1993,11
+11,Samut Prakarn,1994,13
+11,Samut Prakarn,1995,10
+11,Samut Prakarn,1996,9
+11,Samut Prakarn,1997,14
+11,Samut Prakarn,1998,11
+11,Samut Prakarn,1999,10
+11,Samut Prakarn,2000,7
+11,Samut Prakarn,2001,13
+11,Samut Prakarn,2002,11
+11,Samut Prakarn,2003,8
+11,Samut Prakarn,2004,15
+11,Samut Prakarn,2005,11
+11,Samut Prakarn,2006,11
+11,Samut Prakarn,2007,15
+11,Samut Prakarn,2008,9
+11,Samut Prakarn,2009,11
+11,Samut Prakarn,2010,11
+11,Samut Prakarn,2011,9
+11,Samut Prakarn,2012,10
+11,Samut Prakarn,2013,9
+11,Samut Prakarn,2014,7
+11,Samut Prakarn,2015,12
+11,Samut Prakarn,2016,15
+11,Samut Prakarn,2017,9
+11,Samut Prakarn,2018,9
+11,Samut Prakarn,2019,12
+11,Samut Prakarn,2020,12
+11,Samut Prakarn,2021,11
+11,Samut Prakarn,2022,12
+11,Samut Prakarn,2023,13
+12,Nonthaburi,1979,23
+12,Nonthaburi,1980,9
+12,Nonthaburi,1981,9
+12,Nonthaburi,1982,10
+12,Nonthaburi,1983,10
+12,Nonthaburi,1984,12
+12,Nonthaburi,1985,9
+12,Nonthaburi,1986,10
+12,Nonthaburi,1987,11
+12,Nonthaburi,1988,8
+12,Nonthaburi,1989,8
+12,Nonthaburi,1990,11
+12,Nonthaburi,1991,10
+12,Nonthaburi,1992,10
+12,Nonthaburi,1993,12
+12,Nonthaburi,1994,14
+12,Nonthaburi,1995,10
+12,Nonthaburi,1996,10
+12,Nonthaburi,1997,14
+12,Nonthaburi,1998,11
+12,Nonthaburi,1999,10
+12,Nonthaburi,2000,8
+12,Nonthaburi,2001,13
+12,Nonthaburi,2002,11
+12,Nonthaburi,2003,9
+12,Nonthaburi,2004,18
+12,Nonthaburi,2005,10
+12,Nonthaburi,2006,12
+12,Nonthaburi,2007,16
+12,Nonthaburi,2008,9
+12,Nonthaburi,2009,10
+12,Nonthaburi,2010,11
+12,Nonthaburi,2011,9
+12,Nonthaburi,2012,9
+12,Nonthaburi,2013,10
+12,Nonthaburi,2014,7
+12,Nonthaburi,2015,13
+12,Nonthaburi,2016,14
+12,Nonthaburi,2017,8
+12,Nonthaburi,2018,9
+12,Nonthaburi,2019,12
+12,Nonthaburi,2020,12
+12,Nonthaburi,2021,11
+12,Nonthaburi,2022,12
+12,Nonthaburi,2023,11
+13,Pathum Thani,1979,22
+13,Pathum Thani,1980,8
+13,Pathum Thani,1981,9
+13,Pathum Thani,1982,8
+13,Pathum Thani,1983,9
+13,Pathum Thani,1984,12
+13,Pathum Thani,1985,8
+13,Pathum Thani,1986,9
+13,Pathum Thani,1987,9
+13,Pathum Thani,1988,7
+13,Pathum Thani,1989,7
+13,Pathum Thani,1990,9
+13,Pathum Thani,1991,8
+13,Pathum Thani,1992,10
+13,Pathum Thani,1993,11
+13,Pathum Thani,1994,14
+13,Pathum Thani,1995,9
+13,Pathum Thani,1996,9
+13,Pathum Thani,1997,12
+13,Pathum Thani,1998,12
+13,Pathum Thani,1999,10
+13,Pathum Thani,2000,8
+13,Pathum Thani,2001,11
+13,Pathum Thani,2002,11
+13,Pathum Thani,2003,9
+13,Pathum Thani,2004,19
+13,Pathum Thani,2005,10
+13,Pathum Thani,2006,14
+13,Pathum Thani,2007,16
+13,Pathum Thani,2008,9
+13,Pathum Thani,2009,11
+13,Pathum Thani,2010,11
+13,Pathum Thani,2011,11
+13,Pathum Thani,2012,10
+13,Pathum Thani,2013,11
+13,Pathum Thani,2014,7
+13,Pathum Thani,2015,14
+13,Pathum Thani,2016,14
+13,Pathum Thani,2017,8
+13,Pathum Thani,2018,9
+13,Pathum Thani,2019,12
+13,Pathum Thani,2020,11
+13,Pathum Thani,2021,11
+13,Pathum Thani,2022,13
+13,Pathum Thani,2023,11
+14,Phra Nakhon Si Ayutthaya,1979,22
+14,Phra Nakhon Si Ayutthaya,1980,8
+14,Phra Nakhon Si Ayutthaya,1981,8
+14,Phra Nakhon Si Ayutthaya,1982,8
+14,Phra Nakhon Si Ayutthaya,1983,9
+14,Phra Nakhon Si Ayutthaya,1984,12
+14,Phra Nakhon Si Ayutthaya,1985,8
+14,Phra Nakhon Si Ayutthaya,1986,10
+14,Phra Nakhon Si Ayutthaya,1987,10
+14,Phra Nakhon Si Ayutthaya,1988,7
+14,Phra Nakhon Si Ayutthaya,1989,8
+14,Phra Nakhon Si Ayutthaya,1990,9
+14,Phra Nakhon Si Ayutthaya,1991,8
+14,Phra Nakhon Si Ayutthaya,1992,9
+14,Phra Nakhon Si Ayutthaya,1993,13
+14,Phra Nakhon Si Ayutthaya,1994,14
+14,Phra Nakhon Si Ayutthaya,1995,10
+14,Phra Nakhon Si Ayutthaya,1996,11
+14,Phra Nakhon Si Ayutthaya,1997,15
+14,Phra Nakhon Si Ayutthaya,1998,12
+14,Phra Nakhon Si Ayutthaya,1999,9
+14,Phra Nakhon Si Ayutthaya,2000,9
+14,Phra Nakhon Si Ayutthaya,2001,12
+14,Phra Nakhon Si Ayutthaya,2002,13
+14,Phra Nakhon Si Ayutthaya,2003,10
+14,Phra Nakhon Si Ayutthaya,2004,21
+14,Phra Nakhon Si Ayutthaya,2005,12
+14,Phra Nakhon Si Ayutthaya,2006,15
+14,Phra Nakhon Si Ayutthaya,2007,15
+14,Phra Nakhon Si Ayutthaya,2008,11
+14,Phra Nakhon Si Ayutthaya,2009,12
+14,Phra Nakhon Si Ayutthaya,2010,10
+14,Phra Nakhon Si Ayutthaya,2011,12
+14,Phra Nakhon Si Ayutthaya,2012,12
+14,Phra Nakhon Si Ayutthaya,2013,14
+14,Phra Nakhon Si Ayutthaya,2014,9
+14,Phra Nakhon Si Ayutthaya,2015,15
+14,Phra Nakhon Si Ayutthaya,2016,14
+14,Phra Nakhon Si Ayutthaya,2017,9
+14,Phra Nakhon Si Ayutthaya,2018,13
+14,Phra Nakhon Si Ayutthaya,2019,15
+14,Phra Nakhon Si Ayutthaya,2020,12
+14,Phra Nakhon Si Ayutthaya,2021,14
+14,Phra Nakhon Si Ayutthaya,2022,14
+14,Phra Nakhon Si Ayutthaya,2023,12
+15,Ang Thong,1979,24
+15,Ang Thong,1980,10
+15,Ang Thong,1981,10
+15,Ang Thong,1982,10
+15,Ang Thong,1983,10
+15,Ang Thong,1984,13
+15,Ang Thong,1985,9
+15,Ang Thong,1986,11
+15,Ang Thong,1987,14
+15,Ang Thong,1988,9
+15,Ang Thong,1989,10
+15,Ang Thong,1990,12
+15,Ang Thong,1991,10
+15,Ang Thong,1992,11
+15,Ang Thong,1993,14
+15,Ang Thong,1994,14
+15,Ang Thong,1995,10
+15,Ang Thong,1996,12
+15,Ang Thong,1997,15
+15,Ang Thong,1998,13
+15,Ang Thong,1999,10
+15,Ang Thong,2000,10
+15,Ang Thong,2001,12
+15,Ang Thong,2002,14
+15,Ang Thong,2003,12
+15,Ang Thong,2004,21
+15,Ang Thong,2005,12
+15,Ang Thong,2006,14
+15,Ang Thong,2007,15
+15,Ang Thong,2008,11
+15,Ang Thong,2009,12
+15,Ang Thong,2010,10
+15,Ang Thong,2011,13
+15,Ang Thong,2012,12
+15,Ang Thong,2013,16
+15,Ang Thong,2014,10
+15,Ang Thong,2015,15
+15,Ang Thong,2016,14
+15,Ang Thong,2017,9
+15,Ang Thong,2018,13
+15,Ang Thong,2019,17
+15,Ang Thong,2020,13
+15,Ang Thong,2021,14
+15,Ang Thong,2022,14
+15,Ang Thong,2023,12
+16,Lopburi,1979,28
+16,Lopburi,1980,10
+16,Lopburi,1981,11
+16,Lopburi,1982,10
+16,Lopburi,1983,9
+16,Lopburi,1984,16
+16,Lopburi,1985,11
+16,Lopburi,1986,12
+16,Lopburi,1987,14
+16,Lopburi,1988,11
+16,Lopburi,1989,12
+16,Lopburi,1990,12
+16,Lopburi,1991,10
+16,Lopburi,1992,13
+16,Lopburi,1993,16
+16,Lopburi,1994,15
+16,Lopburi,1995,10
+16,Lopburi,1996,12
+16,Lopburi,1997,16
+16,Lopburi,1998,15
+16,Lopburi,1999,11
+16,Lopburi,2000,10
+16,Lopburi,2001,12
+16,Lopburi,2002,14
+16,Lopburi,2003,15
+16,Lopburi,2004,24
+16,Lopburi,2005,12
+16,Lopburi,2006,16
+16,Lopburi,2007,16
+16,Lopburi,2008,12
+16,Lopburi,2009,11
+16,Lopburi,2010,10
+16,Lopburi,2011,14
+16,Lopburi,2012,14
+16,Lopburi,2013,16
+16,Lopburi,2014,9
+16,Lopburi,2015,15
+16,Lopburi,2016,13
+16,Lopburi,2017,10
+16,Lopburi,2018,13
+16,Lopburi,2019,18
+16,Lopburi,2020,11
+16,Lopburi,2021,12
+16,Lopburi,2022,15
+16,Lopburi,2023,13
+17,Sing Buri,1979,26
+17,Sing Buri,1980,10
+17,Sing Buri,1981,10
+17,Sing Buri,1982,10
+17,Sing Buri,1983,10
+17,Sing Buri,1984,13
+17,Sing Buri,1985,9
+17,Sing Buri,1986,12
+17,Sing Buri,1987,14
+17,Sing Buri,1988,10
+17,Sing Buri,1989,11
+17,Sing Buri,1990,12
+17,Sing Buri,1991,12
+17,Sing Buri,1992,12
+17,Sing Buri,1993,15
+17,Sing Buri,1994,14
+17,Sing Buri,1995,10
+17,Sing Buri,1996,12
+17,Sing Buri,1997,15
+17,Sing Buri,1998,14
+17,Sing Buri,1999,10
+17,Sing Buri,2000,10
+17,Sing Buri,2001,13
+17,Sing Buri,2002,14
+17,Sing Buri,2003,14
+17,Sing Buri,2004,21
+17,Sing Buri,2005,11
+17,Sing Buri,2006,14
+17,Sing Buri,2007,16
+17,Sing Buri,2008,11
+17,Sing Buri,2009,12
+17,Sing Buri,2010,10
+17,Sing Buri,2011,14
+17,Sing Buri,2012,12
+17,Sing Buri,2013,16
+17,Sing Buri,2014,10
+17,Sing Buri,2015,14
+17,Sing Buri,2016,14
+17,Sing Buri,2017,10
+17,Sing Buri,2018,13
+17,Sing Buri,2019,18
+17,Sing Buri,2020,12
+17,Sing Buri,2021,14
+17,Sing Buri,2022,15
+17,Sing Buri,2023,12
+18,Chai Nat,1979,25
+18,Chai Nat,1980,9
+18,Chai Nat,1981,10
+18,Chai Nat,1982,11
+18,Chai Nat,1983,10
+18,Chai Nat,1984,12
+18,Chai Nat,1985,8
+18,Chai Nat,1986,13
+18,Chai Nat,1987,13
+18,Chai Nat,1988,11
+18,Chai Nat,1989,12
+18,Chai Nat,1990,10
+18,Chai Nat,1991,13
+18,Chai Nat,1992,13
+18,Chai Nat,1993,17
+18,Chai Nat,1994,13
+18,Chai Nat,1995,10
+18,Chai Nat,1996,12
+18,Chai Nat,1997,15
+18,Chai Nat,1998,14
+18,Chai Nat,1999,11
+18,Chai Nat,2000,10
+18,Chai Nat,2001,14
+18,Chai Nat,2002,14
+18,Chai Nat,2003,15
+18,Chai Nat,2004,21
+18,Chai Nat,2005,11
+18,Chai Nat,2006,14
+18,Chai Nat,2007,17
+18,Chai Nat,2008,10
+18,Chai Nat,2009,12
+18,Chai Nat,2010,11
+18,Chai Nat,2011,14
+18,Chai Nat,2012,11
+18,Chai Nat,2013,14
+18,Chai Nat,2014,11
+18,Chai Nat,2015,14
+18,Chai Nat,2016,13
+18,Chai Nat,2017,9
+18,Chai Nat,2018,14
+18,Chai Nat,2019,18
+18,Chai Nat,2020,12
+18,Chai Nat,2021,15
+18,Chai Nat,2022,15
+18,Chai Nat,2023,11
+19,Saraburi,1979,24
+19,Saraburi,1980,9
+19,Saraburi,1981,9
+19,Saraburi,1982,9
+19,Saraburi,1983,9
+19,Saraburi,1984,13
+19,Saraburi,1985,9
+19,Saraburi,1986,12
+19,Saraburi,1987,11
+19,Saraburi,1988,9
+19,Saraburi,1989,10
+19,Saraburi,1990,11
+19,Saraburi,1991,8
+19,Saraburi,1992,12
+19,Saraburi,1993,14
+19,Saraburi,1994,14
+19,Saraburi,1995,10
+19,Saraburi,1996,11
+19,Saraburi,1997,16
+19,Saraburi,1998,13
+19,Saraburi,1999,10
+19,Saraburi,2000,10
+19,Saraburi,2001,12
+19,Saraburi,2002,14
+19,Saraburi,2003,12
+19,Saraburi,2004,23
+19,Saraburi,2005,13
+19,Saraburi,2006,15
+19,Saraburi,2007,16
+19,Saraburi,2008,11
+19,Saraburi,2009,12
+19,Saraburi,2010,10
+19,Saraburi,2011,12
+19,Saraburi,2012,14
+19,Saraburi,2013,15
+19,Saraburi,2014,10
+19,Saraburi,2015,16
+19,Saraburi,2016,14
+19,Saraburi,2017,9
+19,Saraburi,2018,13
+19,Saraburi,2019,17
+19,Saraburi,2020,12
+19,Saraburi,2021,13
+19,Saraburi,2022,15
+19,Saraburi,2023,13
+20,Chon Buri,1979,21
+20,Chon Buri,1980,10
+20,Chon Buri,1981,10
+20,Chon Buri,1982,10
+20,Chon Buri,1983,13
+20,Chon Buri,1984,14
+20,Chon Buri,1985,9
+20,Chon Buri,1986,12
+20,Chon Buri,1987,12
+20,Chon Buri,1988,9
+20,Chon Buri,1989,11
+20,Chon Buri,1990,16
+20,Chon Buri,1991,10
+20,Chon Buri,1992,12
+20,Chon Buri,1993,12
+20,Chon Buri,1994,13
+20,Chon Buri,1995,10
+20,Chon Buri,1996,11
+20,Chon Buri,1997,17
+20,Chon Buri,1998,12
+20,Chon Buri,1999,12
+20,Chon Buri,2000,10
+20,Chon Buri,2001,14
+20,Chon Buri,2002,13
+20,Chon Buri,2003,11
+20,Chon Buri,2004,19
+20,Chon Buri,2005,13
+20,Chon Buri,2006,13
+20,Chon Buri,2007,13
+20,Chon Buri,2008,11
+20,Chon Buri,2009,13
+20,Chon Buri,2010,10
+20,Chon Buri,2011,11
+20,Chon Buri,2012,12
+20,Chon Buri,2013,12
+20,Chon Buri,2014,6
+20,Chon Buri,2015,16
+20,Chon Buri,2016,13
+20,Chon Buri,2017,13
+20,Chon Buri,2018,12
+20,Chon Buri,2019,16
+20,Chon Buri,2020,12
+20,Chon Buri,2021,13
+20,Chon Buri,2022,14
+20,Chon Buri,2023,16
+21,Rayong,1979,20
+21,Rayong,1980,10
+21,Rayong,1981,11
+21,Rayong,1982,10
+21,Rayong,1983,13
+21,Rayong,1984,15
+21,Rayong,1985,10
+21,Rayong,1986,11
+21,Rayong,1987,11
+21,Rayong,1988,11
+21,Rayong,1989,10
+21,Rayong,1990,16
+21,Rayong,1991,11
+21,Rayong,1992,14
+21,Rayong,1993,13
+21,Rayong,1994,12
+21,Rayong,1995,10
+21,Rayong,1996,11
+21,Rayong,1997,18
+21,Rayong,1998,11
+21,Rayong,1999,13
+21,Rayong,2000,12
+21,Rayong,2001,15
+21,Rayong,2002,15
+21,Rayong,2003,13
+21,Rayong,2004,19
+21,Rayong,2005,12
+21,Rayong,2006,12
+21,Rayong,2007,12
+21,Rayong,2008,11
+21,Rayong,2009,12
+21,Rayong,2010,9
+21,Rayong,2011,11
+21,Rayong,2012,11
+21,Rayong,2013,11
+21,Rayong,2014,6
+21,Rayong,2015,14
+21,Rayong,2016,13
+21,Rayong,2017,13
+21,Rayong,2018,12
+21,Rayong,2019,19
+21,Rayong,2020,12
+21,Rayong,2021,14
+21,Rayong,2022,14
+21,Rayong,2023,17
+22,Chanthaburi,1979,20
+22,Chanthaburi,1980,9
+22,Chanthaburi,1981,7
+22,Chanthaburi,1982,8
+22,Chanthaburi,1983,8
+22,Chanthaburi,1984,13
+22,Chanthaburi,1985,7
+22,Chanthaburi,1986,8
+22,Chanthaburi,1987,11
+22,Chanthaburi,1988,8
+22,Chanthaburi,1989,9
+22,Chanthaburi,1990,10
+22,Chanthaburi,1991,8
+22,Chanthaburi,1992,10
+22,Chanthaburi,1993,13
+22,Chanthaburi,1994,12
+22,Chanthaburi,1995,9
+22,Chanthaburi,1996,9
+22,Chanthaburi,1997,14
+22,Chanthaburi,1998,10
+22,Chanthaburi,1999,10
+22,Chanthaburi,2000,8
+22,Chanthaburi,2001,9
+22,Chanthaburi,2002,13
+22,Chanthaburi,2003,10
+22,Chanthaburi,2004,19
+22,Chanthaburi,2005,10
+22,Chanthaburi,2006,10
+22,Chanthaburi,2007,10
+22,Chanthaburi,2008,9
+22,Chanthaburi,2009,10
+22,Chanthaburi,2010,9
+22,Chanthaburi,2011,9
+22,Chanthaburi,2012,10
+22,Chanthaburi,2013,10
+22,Chanthaburi,2014,8
+22,Chanthaburi,2015,12
+22,Chanthaburi,2016,10
+22,Chanthaburi,2017,11
+22,Chanthaburi,2018,10
+22,Chanthaburi,2019,15
+22,Chanthaburi,2020,10
+22,Chanthaburi,2021,10
+22,Chanthaburi,2022,12
+22,Chanthaburi,2023,12
+23,Trat,1979,19
+23,Trat,1980,9
+23,Trat,1981,8
+23,Trat,1982,7
+23,Trat,1983,9
+23,Trat,1984,13
+23,Trat,1985,7
+23,Trat,1986,7
+23,Trat,1987,11
+23,Trat,1988,8
+23,Trat,1989,8
+23,Trat,1990,9
+23,Trat,1991,8
+23,Trat,1992,10
+23,Trat,1993,13
+23,Trat,1994,12
+23,Trat,1995,9
+23,Trat,1996,9
+23,Trat,1997,13
+23,Trat,1998,9
+23,Trat,1999,9
+23,Trat,2000,8
+23,Trat,2001,8
+23,Trat,2002,13
+23,Trat,2003,9
+23,Trat,2004,18
+23,Trat,2005,9
+23,Trat,2006,10
+23,Trat,2007,10
+23,Trat,2008,9
+23,Trat,2009,9
+23,Trat,2010,9
+23,Trat,2011,9
+23,Trat,2012,10
+23,Trat,2013,10
+23,Trat,2014,8
+23,Trat,2015,11
+23,Trat,2016,10
+23,Trat,2017,11
+23,Trat,2018,10
+23,Trat,2019,14
+23,Trat,2020,10
+23,Trat,2021,10
+23,Trat,2022,12
+23,Trat,2023,11
+24,Chachoengsao,1979,20
+24,Chachoengsao,1980,8
+24,Chachoengsao,1981,8
+24,Chachoengsao,1982,8
+24,Chachoengsao,1983,9
+24,Chachoengsao,1984,12
+24,Chachoengsao,1985,8
+24,Chachoengsao,1986,9
+24,Chachoengsao,1987,10
+24,Chachoengsao,1988,7
+24,Chachoengsao,1989,9
+24,Chachoengsao,1990,14
+24,Chachoengsao,1991,9
+24,Chachoengsao,1992,11
+24,Chachoengsao,1993,11
+24,Chachoengsao,1994,13
+24,Chachoengsao,1995,9
+24,Chachoengsao,1996,10
+24,Chachoengsao,1997,14
+24,Chachoengsao,1998,12
+24,Chachoengsao,1999,10
+24,Chachoengsao,2000,9
+24,Chachoengsao,2001,12
+24,Chachoengsao,2002,12
+24,Chachoengsao,2003,10
+24,Chachoengsao,2004,19
+24,Chachoengsao,2005,12
+24,Chachoengsao,2006,13
+24,Chachoengsao,2007,14
+24,Chachoengsao,2008,10
+24,Chachoengsao,2009,13
+24,Chachoengsao,2010,10
+24,Chachoengsao,2011,10
+24,Chachoengsao,2012,12
+24,Chachoengsao,2013,11
+24,Chachoengsao,2014,8
+24,Chachoengsao,2015,15
+24,Chachoengsao,2016,12
+24,Chachoengsao,2017,10
+24,Chachoengsao,2018,10
+24,Chachoengsao,2019,14
+24,Chachoengsao,2020,11
+24,Chachoengsao,2021,11
+24,Chachoengsao,2022,14
+24,Chachoengsao,2023,12
+25,Prachin Buri,1979,21
+25,Prachin Buri,1980,9
+25,Prachin Buri,1981,8
+25,Prachin Buri,1982,9
+25,Prachin Buri,1983,9
+25,Prachin Buri,1984,13
+25,Prachin Buri,1985,10
+25,Prachin Buri,1986,9
+25,Prachin Buri,1987,10
+25,Prachin Buri,1988,8
+25,Prachin Buri,1989,10
+25,Prachin Buri,1990,10
+25,Prachin Buri,1991,8
+25,Prachin Buri,1992,11
+25,Prachin Buri,1993,12
+25,Prachin Buri,1994,13
+25,Prachin Buri,1995,8
+25,Prachin Buri,1996,10
+25,Prachin Buri,1997,14
+25,Prachin Buri,1998,12
+25,Prachin Buri,1999,9
+25,Prachin Buri,2000,10
+25,Prachin Buri,2001,10
+25,Prachin Buri,2002,12
+25,Prachin Buri,2003,10
+25,Prachin Buri,2004,18
+25,Prachin Buri,2005,11
+25,Prachin Buri,2006,12
+25,Prachin Buri,2007,14
+25,Prachin Buri,2008,8
+25,Prachin Buri,2009,11
+25,Prachin Buri,2010,10
+25,Prachin Buri,2011,9
+25,Prachin Buri,2012,12
+25,Prachin Buri,2013,12
+25,Prachin Buri,2014,10
+25,Prachin Buri,2015,15
+25,Prachin Buri,2016,11
+25,Prachin Buri,2017,10
+25,Prachin Buri,2018,11
+25,Prachin Buri,2019,15
+25,Prachin Buri,2020,12
+25,Prachin Buri,2021,11
+25,Prachin Buri,2022,14
+25,Prachin Buri,2023,11
+26,Nakhon Nayok,1979,22
+26,Nakhon Nayok,1980,9
+26,Nakhon Nayok,1981,9
+26,Nakhon Nayok,1982,9
+26,Nakhon Nayok,1983,9
+26,Nakhon Nayok,1984,13
+26,Nakhon Nayok,1985,9
+26,Nakhon Nayok,1986,10
+26,Nakhon Nayok,1987,11
+26,Nakhon Nayok,1988,8
+26,Nakhon Nayok,1989,9
+26,Nakhon Nayok,1990,10
+26,Nakhon Nayok,1991,9
+26,Nakhon Nayok,1992,12
+26,Nakhon Nayok,1993,12
+26,Nakhon Nayok,1994,14
+26,Nakhon Nayok,1995,10
+26,Nakhon Nayok,1996,10
+26,Nakhon Nayok,1997,14
+26,Nakhon Nayok,1998,13
+26,Nakhon Nayok,1999,9
+26,Nakhon Nayok,2000,9
+26,Nakhon Nayok,2001,11
+26,Nakhon Nayok,2002,14
+26,Nakhon Nayok,2003,10
+26,Nakhon Nayok,2004,20
+26,Nakhon Nayok,2005,11
+26,Nakhon Nayok,2006,14
+26,Nakhon Nayok,2007,15
+26,Nakhon Nayok,2008,9
+26,Nakhon Nayok,2009,11
+26,Nakhon Nayok,2010,10
+26,Nakhon Nayok,2011,11
+26,Nakhon Nayok,2012,12
+26,Nakhon Nayok,2013,12
+26,Nakhon Nayok,2014,10
+26,Nakhon Nayok,2015,14
+26,Nakhon Nayok,2016,13
+26,Nakhon Nayok,2017,9
+26,Nakhon Nayok,2018,11
+26,Nakhon Nayok,2019,16
+26,Nakhon Nayok,2020,12
+26,Nakhon Nayok,2021,12
+26,Nakhon Nayok,2022,14
+26,Nakhon Nayok,2023,12
+27,Sa Kaeo,1979,22
+27,Sa Kaeo,1980,7
+27,Sa Kaeo,1981,8
+27,Sa Kaeo,1982,8
+27,Sa Kaeo,1983,9
+27,Sa Kaeo,1984,12
+27,Sa Kaeo,1985,8
+27,Sa Kaeo,1986,9
+27,Sa Kaeo,1987,9
+27,Sa Kaeo,1988,8
+27,Sa Kaeo,1989,10
+27,Sa Kaeo,1990,9
+27,Sa Kaeo,1991,8
+27,Sa Kaeo,1992,11
+27,Sa Kaeo,1993,11
+27,Sa Kaeo,1994,13
+27,Sa Kaeo,1995,8
+27,Sa Kaeo,1996,8
+27,Sa Kaeo,1997,13
+27,Sa Kaeo,1998,12
+27,Sa Kaeo,1999,9
+27,Sa Kaeo,2000,10
+27,Sa Kaeo,2001,11
+27,Sa Kaeo,2002,13
+27,Sa Kaeo,2003,11
+27,Sa Kaeo,2004,19
+27,Sa Kaeo,2005,12
+27,Sa Kaeo,2006,12
+27,Sa Kaeo,2007,13
+27,Sa Kaeo,2008,10
+27,Sa Kaeo,2009,10
+27,Sa Kaeo,2010,11
+27,Sa Kaeo,2011,10
+27,Sa Kaeo,2012,15
+27,Sa Kaeo,2013,10
+27,Sa Kaeo,2014,10
+27,Sa Kaeo,2015,17
+27,Sa Kaeo,2016,11
+27,Sa Kaeo,2017,11
+27,Sa Kaeo,2018,10
+27,Sa Kaeo,2019,13
+27,Sa Kaeo,2020,12
+27,Sa Kaeo,2021,11
+27,Sa Kaeo,2022,15
+27,Sa Kaeo,2023,11
+30,Nakhon Ratchasima,1979,25
+30,Nakhon Ratchasima,1980,9
+30,Nakhon Ratchasima,1981,11
+30,Nakhon Ratchasima,1982,11
+30,Nakhon Ratchasima,1983,11
+30,Nakhon Ratchasima,1984,14
+30,Nakhon Ratchasima,1985,11
+30,Nakhon Ratchasima,1986,14
+30,Nakhon Ratchasima,1987,12
+30,Nakhon Ratchasima,1988,13
+30,Nakhon Ratchasima,1989,11
+30,Nakhon Ratchasima,1990,11
+30,Nakhon Ratchasima,1991,11
+30,Nakhon Ratchasima,1992,15
+30,Nakhon Ratchasima,1993,14
+30,Nakhon Ratchasima,1994,15
+30,Nakhon Ratchasima,1995,10
+30,Nakhon Ratchasima,1996,12
+30,Nakhon Ratchasima,1997,13
+30,Nakhon Ratchasima,1998,14
+30,Nakhon Ratchasima,1999,10
+30,Nakhon Ratchasima,2000,11
+30,Nakhon Ratchasima,2001,12
+30,Nakhon Ratchasima,2002,13
+30,Nakhon Ratchasima,2003,15
+30,Nakhon Ratchasima,2004,26
+30,Nakhon Ratchasima,2005,12
+30,Nakhon Ratchasima,2006,15
+30,Nakhon Ratchasima,2007,15
+30,Nakhon Ratchasima,2008,11
+30,Nakhon Ratchasima,2009,12
+30,Nakhon Ratchasima,2010,11
+30,Nakhon Ratchasima,2011,12
+30,Nakhon Ratchasima,2012,16
+30,Nakhon Ratchasima,2013,12
+30,Nakhon Ratchasima,2014,12
+30,Nakhon Ratchasima,2015,18
+30,Nakhon Ratchasima,2016,12
+30,Nakhon Ratchasima,2017,13
+30,Nakhon Ratchasima,2018,14
+30,Nakhon Ratchasima,2019,17
+30,Nakhon Ratchasima,2020,12
+30,Nakhon Ratchasima,2021,12
+30,Nakhon Ratchasima,2022,15
+30,Nakhon Ratchasima,2023,12
+31,Buriram,1979,26
+31,Buriram,1980,7
+31,Buriram,1981,10
+31,Buriram,1982,9
+31,Buriram,1983,9
+31,Buriram,1984,14
+31,Buriram,1985,11
+31,Buriram,1986,10
+31,Buriram,1987,12
+31,Buriram,1988,10
+31,Buriram,1989,11
+31,Buriram,1990,9
+31,Buriram,1991,10
+31,Buriram,1992,13
+31,Buriram,1993,13
+31,Buriram,1994,14
+31,Buriram,1995,11
+31,Buriram,1996,11
+31,Buriram,1997,11
+31,Buriram,1998,13
+31,Buriram,1999,9
+31,Buriram,2000,9
+31,Buriram,2001,10
+31,Buriram,2002,12
+31,Buriram,2003,15
+31,Buriram,2004,27
+31,Buriram,2005,12
+31,Buriram,2006,13
+31,Buriram,2007,13
+31,Buriram,2008,9
+31,Buriram,2009,11
+31,Buriram,2010,13
+31,Buriram,2011,12
+31,Buriram,2012,16
+31,Buriram,2013,10
+31,Buriram,2014,13
+31,Buriram,2015,18
+31,Buriram,2016,13
+31,Buriram,2017,13
+31,Buriram,2018,15
+31,Buriram,2019,16
+31,Buriram,2020,11
+31,Buriram,2021,11
+31,Buriram,2022,15
+31,Buriram,2023,13
+32,Surin,1979,29
+32,Surin,1980,8
+32,Surin,1981,12
+32,Surin,1982,9
+32,Surin,1983,9
+32,Surin,1984,13
+32,Surin,1985,13
+32,Surin,1986,11
+32,Surin,1987,11
+32,Surin,1988,9
+32,Surin,1989,12
+32,Surin,1990,8
+32,Surin,1991,10
+32,Surin,1992,14
+32,Surin,1993,17
+32,Surin,1994,15
+32,Surin,1995,10
+32,Surin,1996,13
+32,Surin,1997,12
+32,Surin,1998,14
+32,Surin,1999,8
+32,Surin,2000,10
+32,Surin,2001,9
+32,Surin,2002,13
+32,Surin,2003,17
+32,Surin,2004,30
+32,Surin,2005,13
+32,Surin,2006,16
+32,Surin,2007,14
+32,Surin,2008,10
+32,Surin,2009,11
+32,Surin,2010,13
+32,Surin,2011,15
+32,Surin,2012,20
+32,Surin,2013,12
+32,Surin,2014,17
+32,Surin,2015,20
+32,Surin,2016,14
+32,Surin,2017,16
+32,Surin,2018,19
+32,Surin,2019,16
+32,Surin,2020,12
+32,Surin,2021,10
+32,Surin,2022,16
+32,Surin,2023,13
+33,Sisaket,1979,25
+33,Sisaket,1980,6
+33,Sisaket,1981,9
+33,Sisaket,1982,8
+33,Sisaket,1983,10
+33,Sisaket,1984,13
+33,Sisaket,1985,14
+33,Sisaket,1986,10
+33,Sisaket,1987,13
+33,Sisaket,1988,10
+33,Sisaket,1989,12
+33,Sisaket,1990,8
+33,Sisaket,1991,10
+33,Sisaket,1992,16
+33,Sisaket,1993,17
+33,Sisaket,1994,15
+33,Sisaket,1995,13
+33,Sisaket,1996,13
+33,Sisaket,1997,14
+33,Sisaket,1998,14
+33,Sisaket,1999,9
+33,Sisaket,2000,10
+33,Sisaket,2001,10
+33,Sisaket,2002,14
+33,Sisaket,2003,16
+33,Sisaket,2004,31
+33,Sisaket,2005,14
+33,Sisaket,2006,18
+33,Sisaket,2007,15
+33,Sisaket,2008,12
+33,Sisaket,2009,11
+33,Sisaket,2010,13
+33,Sisaket,2011,31
+33,Sisaket,2012,21
+33,Sisaket,2013,13
+33,Sisaket,2014,35
+33,Sisaket,2015,17
+33,Sisaket,2016,14
+33,Sisaket,2017,14
+33,Sisaket,2018,15
+33,Sisaket,2019,18
+33,Sisaket,2020,12
+33,Sisaket,2021,11
+33,Sisaket,2022,16
+33,Sisaket,2023,11
+34,Ubon Ratchathani,1979,26
+34,Ubon Ratchathani,1980,9
+34,Ubon Ratchathani,1981,12
+34,Ubon Ratchathani,1982,9
+34,Ubon Ratchathani,1983,11
+34,Ubon Ratchathani,1984,13
+34,Ubon Ratchathani,1985,13
+34,Ubon Ratchathani,1986,9
+34,Ubon Ratchathani,1987,13
+34,Ubon Ratchathani,1988,12
+34,Ubon Ratchathani,1989,11
+34,Ubon Ratchathani,1990,10
+34,Ubon Ratchathani,1991,10
+34,Ubon Ratchathani,1992,15
+34,Ubon Ratchathani,1993,20
+34,Ubon Ratchathani,1994,17
+34,Ubon Ratchathani,1995,11
+34,Ubon Ratchathani,1996,13
+34,Ubon Ratchathani,1997,13
+34,Ubon Ratchathani,1998,14
+34,Ubon Ratchathani,1999,8
+34,Ubon Ratchathani,2000,10
+34,Ubon Ratchathani,2001,11
+34,Ubon Ratchathani,2002,12
+34,Ubon Ratchathani,2003,17
+34,Ubon Ratchathani,2004,32
+34,Ubon Ratchathani,2005,12
+34,Ubon Ratchathani,2006,18
+34,Ubon Ratchathani,2007,15
+34,Ubon Ratchathani,2008,11
+34,Ubon Ratchathani,2009,13
+34,Ubon Ratchathani,2010,12
+34,Ubon Ratchathani,2011,17
+34,Ubon Ratchathani,2012,21
+34,Ubon Ratchathani,2013,13
+34,Ubon Ratchathani,2014,58
+34,Ubon Ratchathani,2015,16
+34,Ubon Ratchathani,2016,12
+34,Ubon Ratchathani,2017,14
+34,Ubon Ratchathani,2018,15
+34,Ubon Ratchathani,2019,19
+34,Ubon Ratchathani,2020,12
+34,Ubon Ratchathani,2021,10
+34,Ubon Ratchathani,2022,16
+34,Ubon Ratchathani,2023,11
+35,Yasothon,1979,29
+35,Yasothon,1980,10
+35,Yasothon,1981,12
+35,Yasothon,1982,10
+35,Yasothon,1983,11
+35,Yasothon,1984,13
+35,Yasothon,1985,13
+35,Yasothon,1986,12
+35,Yasothon,1987,12
+35,Yasothon,1988,12
+35,Yasothon,1989,12
+35,Yasothon,1990,9
+35,Yasothon,1991,11
+35,Yasothon,1992,16
+35,Yasothon,1993,19
+35,Yasothon,1994,16
+35,Yasothon,1995,13
+35,Yasothon,1996,12
+35,Yasothon,1997,13
+35,Yasothon,1998,15
+35,Yasothon,1999,9
+35,Yasothon,2000,11
+35,Yasothon,2001,10
+35,Yasothon,2002,14
+35,Yasothon,2003,17
+35,Yasothon,2004,34
+35,Yasothon,2005,15
+35,Yasothon,2006,19
+35,Yasothon,2007,15
+35,Yasothon,2008,12
+35,Yasothon,2009,15
+35,Yasothon,2010,13
+35,Yasothon,2011,17
+35,Yasothon,2012,21
+35,Yasothon,2013,13
+35,Yasothon,2014,44
+35,Yasothon,2015,18
+35,Yasothon,2016,12
+35,Yasothon,2017,14
+35,Yasothon,2018,19
+35,Yasothon,2019,19
+35,Yasothon,2020,12
+35,Yasothon,2021,11
+35,Yasothon,2022,15
+35,Yasothon,2023,13
+36,Chaiyaphum,1979,27
+36,Chaiyaphum,1980,11
+36,Chaiyaphum,1981,12
+36,Chaiyaphum,1982,11
+36,Chaiyaphum,1983,11
+36,Chaiyaphum,1984,15
+36,Chaiyaphum,1985,12
+36,Chaiyaphum,1986,14
+36,Chaiyaphum,1987,13
+36,Chaiyaphum,1988,13
+36,Chaiyaphum,1989,11
+36,Chaiyaphum,1990,11
+36,Chaiyaphum,1991,11
+36,Chaiyaphum,1992,16
+36,Chaiyaphum,1993,16
+36,Chaiyaphum,1994,15
+36,Chaiyaphum,1995,12
+36,Chaiyaphum,1996,14
+36,Chaiyaphum,1997,15
+36,Chaiyaphum,1998,15
+36,Chaiyaphum,1999,10
+36,Chaiyaphum,2000,10
+36,Chaiyaphum,2001,15
+36,Chaiyaphum,2002,13
+36,Chaiyaphum,2003,16
+36,Chaiyaphum,2004,30
+36,Chaiyaphum,2005,13
+36,Chaiyaphum,2006,18
+36,Chaiyaphum,2007,16
+36,Chaiyaphum,2008,12
+36,Chaiyaphum,2009,11
+36,Chaiyaphum,2010,11
+36,Chaiyaphum,2011,13
+36,Chaiyaphum,2012,19
+36,Chaiyaphum,2013,13
+36,Chaiyaphum,2014,16
+36,Chaiyaphum,2015,17
+36,Chaiyaphum,2016,11
+36,Chaiyaphum,2017,12
+36,Chaiyaphum,2018,16
+36,Chaiyaphum,2019,16
+36,Chaiyaphum,2020,12
+36,Chaiyaphum,2021,13
+36,Chaiyaphum,2022,15
+36,Chaiyaphum,2023,12
+37,Amnat Charoen,1979,29
+37,Amnat Charoen,1980,10
+37,Amnat Charoen,1981,12
+37,Amnat Charoen,1982,10
+37,Amnat Charoen,1983,11
+37,Amnat Charoen,1984,13
+37,Amnat Charoen,1985,12
+37,Amnat Charoen,1986,11
+37,Amnat Charoen,1987,13
+37,Amnat Charoen,1988,12
+37,Amnat Charoen,1989,12
+37,Amnat Charoen,1990,9
+37,Amnat Charoen,1991,11
+37,Amnat Charoen,1992,16
+37,Amnat Charoen,1993,20
+37,Amnat Charoen,1994,16
+37,Amnat Charoen,1995,13
+37,Amnat Charoen,1996,13
+37,Amnat Charoen,1997,13
+37,Amnat Charoen,1998,15
+37,Amnat Charoen,1999,9
+37,Amnat Charoen,2000,11
+37,Amnat Charoen,2001,10
+37,Amnat Charoen,2002,14
+37,Amnat Charoen,2003,18
+37,Amnat Charoen,2004,33
+37,Amnat Charoen,2005,15
+37,Amnat Charoen,2006,19
+37,Amnat Charoen,2007,15
+37,Amnat Charoen,2008,12
+37,Amnat Charoen,2009,15
+37,Amnat Charoen,2010,13
+37,Amnat Charoen,2011,16
+37,Amnat Charoen,2012,21
+37,Amnat Charoen,2013,13
+37,Amnat Charoen,2014,47
+37,Amnat Charoen,2015,17
+37,Amnat Charoen,2016,12
+37,Amnat Charoen,2017,14
+37,Amnat Charoen,2018,18
+37,Amnat Charoen,2019,19
+37,Amnat Charoen,2020,12
+37,Amnat Charoen,2021,11
+37,Amnat Charoen,2022,16
+37,Amnat Charoen,2023,12
+38,Bueng Kan,1979,28
+38,Bueng Kan,1980,11
+38,Bueng Kan,1981,12
+38,Bueng Kan,1982,10
+38,Bueng Kan,1983,11
+38,Bueng Kan,1984,13
+38,Bueng Kan,1985,12
+38,Bueng Kan,1986,12
+38,Bueng Kan,1987,14
+38,Bueng Kan,1988,12
+38,Bueng Kan,1989,12
+38,Bueng Kan,1990,10
+38,Bueng Kan,1991,12
+38,Bueng Kan,1992,16
+38,Bueng Kan,1993,17
+38,Bueng Kan,1994,15
+38,Bueng Kan,1995,16
+38,Bueng Kan,1996,15
+38,Bueng Kan,1997,13
+38,Bueng Kan,1998,15
+38,Bueng Kan,1999,9
+38,Bueng Kan,2000,12
+38,Bueng Kan,2001,11
+38,Bueng Kan,2002,15
+38,Bueng Kan,2003,19
+38,Bueng Kan,2004,29
+38,Bueng Kan,2005,17
+38,Bueng Kan,2006,18
+38,Bueng Kan,2007,16
+38,Bueng Kan,2008,11
+38,Bueng Kan,2009,14
+38,Bueng Kan,2010,12
+38,Bueng Kan,2011,14
+38,Bueng Kan,2012,20
+38,Bueng Kan,2013,13
+38,Bueng Kan,2014,34
+38,Bueng Kan,2015,18
+38,Bueng Kan,2016,11
+38,Bueng Kan,2017,12
+38,Bueng Kan,2018,18
+38,Bueng Kan,2019,19
+38,Bueng Kan,2020,12
+38,Bueng Kan,2021,12
+38,Bueng Kan,2022,14
+38,Bueng Kan,2023,12
+39,Nong Bua Lamphu,1979,27
+39,Nong Bua Lamphu,1980,10
+39,Nong Bua Lamphu,1981,12
+39,Nong Bua Lamphu,1982,11
+39,Nong Bua Lamphu,1983,11
+39,Nong Bua Lamphu,1984,13
+39,Nong Bua Lamphu,1985,11
+39,Nong Bua Lamphu,1986,15
+39,Nong Bua Lamphu,1987,13
+39,Nong Bua Lamphu,1988,11
+39,Nong Bua Lamphu,1989,11
+39,Nong Bua Lamphu,1990,11
+39,Nong Bua Lamphu,1991,13
+39,Nong Bua Lamphu,1992,16
+39,Nong Bua Lamphu,1993,18
+39,Nong Bua Lamphu,1994,14
+39,Nong Bua Lamphu,1995,14
+39,Nong Bua Lamphu,1996,15
+39,Nong Bua Lamphu,1997,14
+39,Nong Bua Lamphu,1998,15
+39,Nong Bua Lamphu,1999,9
+39,Nong Bua Lamphu,2000,10
+39,Nong Bua Lamphu,2001,11
+39,Nong Bua Lamphu,2002,13
+39,Nong Bua Lamphu,2003,17
+39,Nong Bua Lamphu,2004,30
+39,Nong Bua Lamphu,2005,18
+39,Nong Bua Lamphu,2006,18
+39,Nong Bua Lamphu,2007,16
+39,Nong Bua Lamphu,2008,12
+39,Nong Bua Lamphu,2009,13
+39,Nong Bua Lamphu,2010,11
+39,Nong Bua Lamphu,2011,14
+39,Nong Bua Lamphu,2012,20
+39,Nong Bua Lamphu,2013,13
+39,Nong Bua Lamphu,2014,19
+39,Nong Bua Lamphu,2015,17
+39,Nong Bua Lamphu,2016,10
+39,Nong Bua Lamphu,2017,11
+39,Nong Bua Lamphu,2018,17
+39,Nong Bua Lamphu,2019,18
+39,Nong Bua Lamphu,2020,12
+39,Nong Bua Lamphu,2021,12
+39,Nong Bua Lamphu,2022,15
+39,Nong Bua Lamphu,2023,13
+40,Khon Kaen,1979,29
+40,Khon Kaen,1980,10
+40,Khon Kaen,1981,13
+40,Khon Kaen,1982,11
+40,Khon Kaen,1983,12
+40,Khon Kaen,1984,13
+40,Khon Kaen,1985,14
+40,Khon Kaen,1986,14
+40,Khon Kaen,1987,12
+40,Khon Kaen,1988,11
+40,Khon Kaen,1989,12
+40,Khon Kaen,1990,10
+40,Khon Kaen,1991,12
+40,Khon Kaen,1992,16
+40,Khon Kaen,1993,20
+40,Khon Kaen,1994,16
+40,Khon Kaen,1995,13
+40,Khon Kaen,1996,12
+40,Khon Kaen,1997,16
+40,Khon Kaen,1998,14
+40,Khon Kaen,1999,10
+40,Khon Kaen,2000,11
+40,Khon Kaen,2001,11
+40,Khon Kaen,2002,15
+40,Khon Kaen,2003,17
+40,Khon Kaen,2004,30
+40,Khon Kaen,2005,17
+40,Khon Kaen,2006,19
+40,Khon Kaen,2007,16
+40,Khon Kaen,2008,15
+40,Khon Kaen,2009,14
+40,Khon Kaen,2010,12
+40,Khon Kaen,2011,13
+40,Khon Kaen,2012,19
+40,Khon Kaen,2013,13
+40,Khon Kaen,2014,21
+40,Khon Kaen,2015,19
+40,Khon Kaen,2016,12
+40,Khon Kaen,2017,13
+40,Khon Kaen,2018,18
+40,Khon Kaen,2019,16
+40,Khon Kaen,2020,12
+40,Khon Kaen,2021,12
+40,Khon Kaen,2022,14
+40,Khon Kaen,2023,13
+41,Udon Thani,1979,30
+41,Udon Thani,1980,11
+41,Udon Thani,1981,12
+41,Udon Thani,1982,10
+41,Udon Thani,1983,12
+41,Udon Thani,1984,13
+41,Udon Thani,1985,12
+41,Udon Thani,1986,14
+41,Udon Thani,1987,14
+41,Udon Thani,1988,12
+41,Udon Thani,1989,12
+41,Udon Thani,1990,11
+41,Udon Thani,1991,13
+41,Udon Thani,1992,17
+41,Udon Thani,1993,19
+41,Udon Thani,1994,14
+41,Udon Thani,1995,16
+41,Udon Thani,1996,17
+41,Udon Thani,1997,13
+41,Udon Thani,1998,16
+41,Udon Thani,1999,9
+41,Udon Thani,2000,11
+41,Udon Thani,2001,11
+41,Udon Thani,2002,13
+41,Udon Thani,2003,18
+41,Udon Thani,2004,30
+41,Udon Thani,2005,20
+41,Udon Thani,2006,19
+41,Udon Thani,2007,16
+41,Udon Thani,2008,11
+41,Udon Thani,2009,15
+41,Udon Thani,2010,11
+41,Udon Thani,2011,14
+41,Udon Thani,2012,21
+41,Udon Thani,2013,13
+41,Udon Thani,2014,26
+41,Udon Thani,2015,18
+41,Udon Thani,2016,10
+41,Udon Thani,2017,12
+41,Udon Thani,2018,18
+41,Udon Thani,2019,18
+41,Udon Thani,2020,13
+41,Udon Thani,2021,12
+41,Udon Thani,2022,15
+41,Udon Thani,2023,14
+42,Loei,1979,25
+42,Loei,1980,9
+42,Loei,1981,11
+42,Loei,1982,12
+42,Loei,1983,10
+42,Loei,1984,12
+42,Loei,1985,10
+42,Loei,1986,16
+42,Loei,1987,14
+42,Loei,1988,10
+42,Loei,1989,10
+42,Loei,1990,11
+42,Loei,1991,13
+42,Loei,1992,15
+42,Loei,1993,16
+42,Loei,1994,13
+42,Loei,1995,14
+42,Loei,1996,14
+42,Loei,1997,13
+42,Loei,1998,15
+42,Loei,1999,9
+42,Loei,2000,9
+42,Loei,2001,11
+42,Loei,2002,13
+42,Loei,2003,17
+42,Loei,2004,30
+42,Loei,2005,18
+42,Loei,2006,18
+42,Loei,2007,17
+42,Loei,2008,12
+42,Loei,2009,12
+42,Loei,2010,11
+42,Loei,2011,14
+42,Loei,2012,20
+42,Loei,2013,13
+42,Loei,2014,14
+42,Loei,2015,14
+42,Loei,2016,10
+42,Loei,2017,10
+42,Loei,2018,16
+42,Loei,2019,19
+42,Loei,2020,11
+42,Loei,2021,12
+42,Loei,2022,15
+42,Loei,2023,12
+43,Nong Khai,1979,28
+43,Nong Khai,1980,10
+43,Nong Khai,1981,11
+43,Nong Khai,1982,9
+43,Nong Khai,1983,11
+43,Nong Khai,1984,13
+43,Nong Khai,1985,12
+43,Nong Khai,1986,12
+43,Nong Khai,1987,15
+43,Nong Khai,1988,12
+43,Nong Khai,1989,13
+43,Nong Khai,1990,11
+43,Nong Khai,1991,13
+43,Nong Khai,1992,19
+43,Nong Khai,1993,17
+43,Nong Khai,1994,14
+43,Nong Khai,1995,19
+43,Nong Khai,1996,18
+43,Nong Khai,1997,12
+43,Nong Khai,1998,17
+43,Nong Khai,1999,9
+43,Nong Khai,2000,11
+43,Nong Khai,2001,11
+43,Nong Khai,2002,13
+43,Nong Khai,2003,18
+43,Nong Khai,2004,32
+43,Nong Khai,2005,18
+43,Nong Khai,2006,16
+43,Nong Khai,2007,17
+43,Nong Khai,2008,10
+43,Nong Khai,2009,13
+43,Nong Khai,2010,10
+43,Nong Khai,2011,15
+43,Nong Khai,2012,22
+43,Nong Khai,2013,14
+43,Nong Khai,2014,26
+43,Nong Khai,2015,18
+43,Nong Khai,2016,9
+43,Nong Khai,2017,10
+43,Nong Khai,2018,17
+43,Nong Khai,2019,19
+43,Nong Khai,2020,11
+43,Nong Khai,2021,12
+43,Nong Khai,2022,15
+43,Nong Khai,2023,11
+44,Maha Sarakham,1979,31
+44,Maha Sarakham,1980,10
+44,Maha Sarakham,1981,13
+44,Maha Sarakham,1982,11
+44,Maha Sarakham,1983,13
+44,Maha Sarakham,1984,14
+44,Maha Sarakham,1985,14
+44,Maha Sarakham,1986,12
+44,Maha Sarakham,1987,11
+44,Maha Sarakham,1988,11
+44,Maha Sarakham,1989,12
+44,Maha Sarakham,1990,9
+44,Maha Sarakham,1991,11
+44,Maha Sarakham,1992,16
+44,Maha Sarakham,1993,20
+44,Maha Sarakham,1994,16
+44,Maha Sarakham,1995,12
+44,Maha Sarakham,1996,11
+44,Maha Sarakham,1997,14
+44,Maha Sarakham,1998,15
+44,Maha Sarakham,1999,11
+44,Maha Sarakham,2000,12
+44,Maha Sarakham,2001,10
+44,Maha Sarakham,2002,12
+44,Maha Sarakham,2003,17
+44,Maha Sarakham,2004,33
+44,Maha Sarakham,2005,15
+44,Maha Sarakham,2006,19
+44,Maha Sarakham,2007,15
+44,Maha Sarakham,2008,15
+44,Maha Sarakham,2009,15
+44,Maha Sarakham,2010,13
+44,Maha Sarakham,2011,14
+44,Maha Sarakham,2012,21
+44,Maha Sarakham,2013,12
+44,Maha Sarakham,2014,25
+44,Maha Sarakham,2015,20
+44,Maha Sarakham,2016,13
+44,Maha Sarakham,2017,13
+44,Maha Sarakham,2018,19
+44,Maha Sarakham,2019,16
+44,Maha Sarakham,2020,11
+44,Maha Sarakham,2021,11
+44,Maha Sarakham,2022,15
+44,Maha Sarakham,2023,13
+45,Roi Et,1979,31
+45,Roi Et,1980,10
+45,Roi Et,1981,13
+45,Roi Et,1982,10
+45,Roi Et,1983,12
+45,Roi Et,1984,14
+45,Roi Et,1985,14
+45,Roi Et,1986,13
+45,Roi Et,1987,11
+45,Roi Et,1988,10
+45,Roi Et,1989,12
+45,Roi Et,1990,9
+45,Roi Et,1991,12
+45,Roi Et,1992,16
+45,Roi Et,1993,20
+45,Roi Et,1994,15
+45,Roi Et,1995,12
+45,Roi Et,1996,12
+45,Roi Et,1997,13
+45,Roi Et,1998,16
+45,Roi Et,1999,9
+45,Roi Et,2000,11
+45,Roi Et,2001,10
+45,Roi Et,2002,13
+45,Roi Et,2003,17
+45,Roi Et,2004,39
+45,Roi Et,2005,16
+45,Roi Et,2006,19
+45,Roi Et,2007,15
+45,Roi Et,2008,12
+45,Roi Et,2009,15
+45,Roi Et,2010,12
+45,Roi Et,2011,15
+45,Roi Et,2012,21
+45,Roi Et,2013,12
+45,Roi Et,2014,51
+45,Roi Et,2015,19
+45,Roi Et,2016,13
+45,Roi Et,2017,14
+45,Roi Et,2018,22
+45,Roi Et,2019,18
+45,Roi Et,2020,12
+45,Roi Et,2021,11
+45,Roi Et,2022,16
+45,Roi Et,2023,15
+46,Kalasin,1979,30
+46,Kalasin,1980,10
+46,Kalasin,1981,13
+46,Kalasin,1982,9
+46,Kalasin,1983,11
+46,Kalasin,1984,13
+46,Kalasin,1985,12
+46,Kalasin,1986,12
+46,Kalasin,1987,11
+46,Kalasin,1988,11
+46,Kalasin,1989,12
+46,Kalasin,1990,9
+46,Kalasin,1991,11
+46,Kalasin,1992,15
+46,Kalasin,1993,18
+46,Kalasin,1994,15
+46,Kalasin,1995,13
+46,Kalasin,1996,12
+46,Kalasin,1997,13
+46,Kalasin,1998,15
+46,Kalasin,1999,8
+46,Kalasin,2000,11
+46,Kalasin,2001,10
+46,Kalasin,2002,14
+46,Kalasin,2003,20
+46,Kalasin,2004,33
+46,Kalasin,2005,16
+46,Kalasin,2006,20
+46,Kalasin,2007,15
+46,Kalasin,2008,12
+46,Kalasin,2009,16
+46,Kalasin,2010,12
+46,Kalasin,2011,14
+46,Kalasin,2012,21
+46,Kalasin,2013,13
+46,Kalasin,2014,37
+46,Kalasin,2015,19
+46,Kalasin,2016,13
+46,Kalasin,2017,13
+46,Kalasin,2018,21
+46,Kalasin,2019,17
+46,Kalasin,2020,12
+46,Kalasin,2021,11
+46,Kalasin,2022,15
+46,Kalasin,2023,14
+47,Sakon Nakhon,1979,32
+47,Sakon Nakhon,1980,13
+47,Sakon Nakhon,1981,13
+47,Sakon Nakhon,1982,10
+47,Sakon Nakhon,1983,11
+47,Sakon Nakhon,1984,14
+47,Sakon Nakhon,1985,13
+47,Sakon Nakhon,1986,13
+47,Sakon Nakhon,1987,14
+47,Sakon Nakhon,1988,14
+47,Sakon Nakhon,1989,13
+47,Sakon Nakhon,1990,10
+47,Sakon Nakhon,1991,13
+47,Sakon Nakhon,1992,17
+47,Sakon Nakhon,1993,17
+47,Sakon Nakhon,1994,16
+47,Sakon Nakhon,1995,18
+47,Sakon Nakhon,1996,16
+47,Sakon Nakhon,1997,13
+47,Sakon Nakhon,1998,15
+47,Sakon Nakhon,1999,8
+47,Sakon Nakhon,2000,14
+47,Sakon Nakhon,2001,12
+47,Sakon Nakhon,2002,18
+47,Sakon Nakhon,2003,26
+47,Sakon Nakhon,2004,31
+47,Sakon Nakhon,2005,19
+47,Sakon Nakhon,2006,20
+47,Sakon Nakhon,2007,16
+47,Sakon Nakhon,2008,12
+47,Sakon Nakhon,2009,15
+47,Sakon Nakhon,2010,12
+47,Sakon Nakhon,2011,14
+47,Sakon Nakhon,2012,22
+47,Sakon Nakhon,2013,13
+47,Sakon Nakhon,2014,59
+47,Sakon Nakhon,2015,19
+47,Sakon Nakhon,2016,11
+47,Sakon Nakhon,2017,13
+47,Sakon Nakhon,2018,20
+47,Sakon Nakhon,2019,19
+47,Sakon Nakhon,2020,12
+47,Sakon Nakhon,2021,12
+47,Sakon Nakhon,2022,15
+47,Sakon Nakhon,2023,12
+48,Nakhon Phanom,1979,32
+48,Nakhon Phanom,1980,13
+48,Nakhon Phanom,1981,13
+48,Nakhon Phanom,1982,10
+48,Nakhon Phanom,1983,11
+48,Nakhon Phanom,1984,14
+48,Nakhon Phanom,1985,11
+48,Nakhon Phanom,1986,12
+48,Nakhon Phanom,1987,17
+48,Nakhon Phanom,1988,15
+48,Nakhon Phanom,1989,13
+48,Nakhon Phanom,1990,10
+48,Nakhon Phanom,1991,13
+48,Nakhon Phanom,1992,18
+48,Nakhon Phanom,1993,17
+48,Nakhon Phanom,1994,16
+48,Nakhon Phanom,1995,18
+48,Nakhon Phanom,1996,16
+48,Nakhon Phanom,1997,14
+48,Nakhon Phanom,1998,14
+48,Nakhon Phanom,1999,9
+48,Nakhon Phanom,2000,12
+48,Nakhon Phanom,2001,12
+48,Nakhon Phanom,2002,17
+48,Nakhon Phanom,2003,22
+48,Nakhon Phanom,2004,30
+48,Nakhon Phanom,2005,19
+48,Nakhon Phanom,2006,20
+48,Nakhon Phanom,2007,17
+48,Nakhon Phanom,2008,12
+48,Nakhon Phanom,2009,15
+48,Nakhon Phanom,2010,13
+48,Nakhon Phanom,2011,15
+48,Nakhon Phanom,2012,22
+48,Nakhon Phanom,2013,13
+48,Nakhon Phanom,2014,49
+48,Nakhon Phanom,2015,19
+48,Nakhon Phanom,2016,10
+48,Nakhon Phanom,2017,14
+48,Nakhon Phanom,2018,19
+48,Nakhon Phanom,2019,21
+48,Nakhon Phanom,2020,12
+48,Nakhon Phanom,2021,12
+48,Nakhon Phanom,2022,13
+48,Nakhon Phanom,2023,12
+49,Mukdahan,1979,33
+49,Mukdahan,1980,11
+49,Mukdahan,1981,12
+49,Mukdahan,1982,11
+49,Mukdahan,1983,11
+49,Mukdahan,1984,14
+49,Mukdahan,1985,11
+49,Mukdahan,1986,13
+49,Mukdahan,1987,13
+49,Mukdahan,1988,15
+49,Mukdahan,1989,12
+49,Mukdahan,1990,9
+49,Mukdahan,1991,12
+49,Mukdahan,1992,17
+49,Mukdahan,1993,22
+49,Mukdahan,1994,17
+49,Mukdahan,1995,15
+49,Mukdahan,1996,13
+49,Mukdahan,1997,14
+49,Mukdahan,1998,15
+49,Mukdahan,1999,10
+49,Mukdahan,2000,13
+49,Mukdahan,2001,11
+49,Mukdahan,2002,18
+49,Mukdahan,2003,20
+49,Mukdahan,2004,34
+49,Mukdahan,2005,18
+49,Mukdahan,2006,20
+49,Mukdahan,2007,16
+49,Mukdahan,2008,14
+49,Mukdahan,2009,20
+49,Mukdahan,2010,14
+49,Mukdahan,2011,15
+49,Mukdahan,2012,22
+49,Mukdahan,2013,14
+49,Mukdahan,2014,45
+49,Mukdahan,2015,17
+49,Mukdahan,2016,10
+49,Mukdahan,2017,14
+49,Mukdahan,2018,22
+49,Mukdahan,2019,21
+49,Mukdahan,2020,12
+49,Mukdahan,2021,12
+49,Mukdahan,2022,15
+49,Mukdahan,2023,14
+50,Chiang Mai,1979,17
+50,Chiang Mai,1980,10
+50,Chiang Mai,1981,10
+50,Chiang Mai,1982,11
+50,Chiang Mai,1983,11
+50,Chiang Mai,1984,10
+50,Chiang Mai,1985,11
+50,Chiang Mai,1986,12
+50,Chiang Mai,1987,13
+50,Chiang Mai,1988,10
+50,Chiang Mai,1989,9
+50,Chiang Mai,1990,11
+50,Chiang Mai,1991,11
+50,Chiang Mai,1992,13
+50,Chiang Mai,1993,12
+50,Chiang Mai,1994,12
+50,Chiang Mai,1995,13
+50,Chiang Mai,1996,12
+50,Chiang Mai,1997,14
+50,Chiang Mai,1998,13
+50,Chiang Mai,1999,9
+50,Chiang Mai,2000,10
+50,Chiang Mai,2001,9
+50,Chiang Mai,2002,14
+50,Chiang Mai,2003,13
+50,Chiang Mai,2004,15
+50,Chiang Mai,2005,12
+50,Chiang Mai,2006,15
+50,Chiang Mai,2007,14
+50,Chiang Mai,2008,8
+50,Chiang Mai,2009,9
+50,Chiang Mai,2010,9
+50,Chiang Mai,2011,11
+50,Chiang Mai,2012,14
+50,Chiang Mai,2013,13
+50,Chiang Mai,2014,12
+50,Chiang Mai,2015,14
+50,Chiang Mai,2016,12
+50,Chiang Mai,2017,9
+50,Chiang Mai,2018,10
+50,Chiang Mai,2019,37
+50,Chiang Mai,2020,13
+50,Chiang Mai,2021,15
+50,Chiang Mai,2022,13
+50,Chiang Mai,2023,10
+51,Lamphun,1979,16
+51,Lamphun,1980,8
+51,Lamphun,1981,10
+51,Lamphun,1982,11
+51,Lamphun,1983,12
+51,Lamphun,1984,9
+51,Lamphun,1985,11
+51,Lamphun,1986,12
+51,Lamphun,1987,12
+51,Lamphun,1988,10
+51,Lamphun,1989,10
+51,Lamphun,1990,12
+51,Lamphun,1991,11
+51,Lamphun,1992,14
+51,Lamphun,1993,13
+51,Lamphun,1994,12
+51,Lamphun,1995,13
+51,Lamphun,1996,11
+51,Lamphun,1997,15
+51,Lamphun,1998,13
+51,Lamphun,1999,9
+51,Lamphun,2000,10
+51,Lamphun,2001,9
+51,Lamphun,2002,15
+51,Lamphun,2003,13
+51,Lamphun,2004,15
+51,Lamphun,2005,13
+51,Lamphun,2006,16
+51,Lamphun,2007,14
+51,Lamphun,2008,9
+51,Lamphun,2009,9
+51,Lamphun,2010,10
+51,Lamphun,2011,12
+51,Lamphun,2012,15
+51,Lamphun,2013,12
+51,Lamphun,2014,10
+51,Lamphun,2015,15
+51,Lamphun,2016,12
+51,Lamphun,2017,10
+51,Lamphun,2018,12
+51,Lamphun,2019,22
+51,Lamphun,2020,14
+51,Lamphun,2021,17
+51,Lamphun,2022,12
+51,Lamphun,2023,12
+52,Lampang,1979,18
+52,Lampang,1980,9
+52,Lampang,1981,10
+52,Lampang,1982,11
+52,Lampang,1983,12
+52,Lampang,1984,10
+52,Lampang,1985,11
+52,Lampang,1986,12
+52,Lampang,1987,12
+52,Lampang,1988,11
+52,Lampang,1989,10
+52,Lampang,1990,11
+52,Lampang,1991,10
+52,Lampang,1992,13
+52,Lampang,1993,14
+52,Lampang,1994,12
+52,Lampang,1995,13
+52,Lampang,1996,11
+52,Lampang,1997,15
+52,Lampang,1998,14
+52,Lampang,1999,10
+52,Lampang,2000,10
+52,Lampang,2001,9
+52,Lampang,2002,15
+52,Lampang,2003,14
+52,Lampang,2004,15
+52,Lampang,2005,13
+52,Lampang,2006,14
+52,Lampang,2007,14
+52,Lampang,2008,8
+52,Lampang,2009,9
+52,Lampang,2010,10
+52,Lampang,2011,12
+52,Lampang,2012,14
+52,Lampang,2013,12
+52,Lampang,2014,11
+52,Lampang,2015,14
+52,Lampang,2016,12
+52,Lampang,2017,9
+52,Lampang,2018,12
+52,Lampang,2019,21
+52,Lampang,2020,12
+52,Lampang,2021,15
+52,Lampang,2022,12
+52,Lampang,2023,12
+53,Uttaradit,1979,22
+53,Uttaradit,1980,10
+53,Uttaradit,1981,12
+53,Uttaradit,1982,10
+53,Uttaradit,1983,11
+53,Uttaradit,1984,11
+53,Uttaradit,1985,11
+53,Uttaradit,1986,13
+53,Uttaradit,1987,14
+53,Uttaradit,1988,10
+53,Uttaradit,1989,11
+53,Uttaradit,1990,11
+53,Uttaradit,1991,11
+53,Uttaradit,1992,14
+53,Uttaradit,1993,16
+53,Uttaradit,1994,13
+53,Uttaradit,1995,14
+53,Uttaradit,1996,14
+53,Uttaradit,1997,15
+53,Uttaradit,1998,16
+53,Uttaradit,1999,11
+53,Uttaradit,2000,12
+53,Uttaradit,2001,11
+53,Uttaradit,2002,15
+53,Uttaradit,2003,18
+53,Uttaradit,2004,21
+53,Uttaradit,2005,16
+53,Uttaradit,2006,16
+53,Uttaradit,2007,15
+53,Uttaradit,2008,10
+53,Uttaradit,2009,10
+53,Uttaradit,2010,14
+53,Uttaradit,2011,13
+53,Uttaradit,2012,18
+53,Uttaradit,2013,11
+53,Uttaradit,2014,12
+53,Uttaradit,2015,14
+53,Uttaradit,2016,12
+53,Uttaradit,2017,10
+53,Uttaradit,2018,13
+53,Uttaradit,2019,19
+53,Uttaradit,2020,11
+53,Uttaradit,2021,14
+53,Uttaradit,2022,15
+53,Uttaradit,2023,12
+54,Phrae,1979,19
+54,Phrae,1980,11
+54,Phrae,1981,11
+54,Phrae,1982,11
+54,Phrae,1983,12
+54,Phrae,1984,10
+54,Phrae,1985,10
+54,Phrae,1986,12
+54,Phrae,1987,15
+54,Phrae,1988,11
+54,Phrae,1989,12
+54,Phrae,1990,10
+54,Phrae,1991,12
+54,Phrae,1992,13
+54,Phrae,1993,16
+54,Phrae,1994,12
+54,Phrae,1995,13
+54,Phrae,1996,13
+54,Phrae,1997,14
+54,Phrae,1998,14
+54,Phrae,1999,11
+54,Phrae,2000,12
+54,Phrae,2001,10
+54,Phrae,2002,14
+54,Phrae,2003,17
+54,Phrae,2004,22
+54,Phrae,2005,18
+54,Phrae,2006,14
+54,Phrae,2007,14
+54,Phrae,2008,10
+54,Phrae,2009,9
+54,Phrae,2010,12
+54,Phrae,2011,13
+54,Phrae,2012,16
+54,Phrae,2013,12
+54,Phrae,2014,12
+54,Phrae,2015,14
+54,Phrae,2016,11
+54,Phrae,2017,10
+54,Phrae,2018,15
+54,Phrae,2019,17
+54,Phrae,2020,12
+54,Phrae,2021,14
+54,Phrae,2022,12
+54,Phrae,2023,12
+55,Nan,1979,16
+55,Nan,1980,11
+55,Nan,1981,10
+55,Nan,1982,9
+55,Nan,1983,10
+55,Nan,1984,11
+55,Nan,1985,11
+55,Nan,1986,12
+55,Nan,1987,12
+55,Nan,1988,11
+55,Nan,1989,11
+55,Nan,1990,10
+55,Nan,1991,9
+55,Nan,1992,12
+55,Nan,1993,17
+55,Nan,1994,12
+55,Nan,1995,17
+55,Nan,1996,12
+55,Nan,1997,13
+55,Nan,1998,14
+55,Nan,1999,9
+55,Nan,2000,11
+55,Nan,2001,9
+55,Nan,2002,16
+55,Nan,2003,15
+55,Nan,2004,17
+55,Nan,2005,13
+55,Nan,2006,16
+55,Nan,2007,14
+55,Nan,2008,9
+55,Nan,2009,11
+55,Nan,2010,11
+55,Nan,2011,13
+55,Nan,2012,17
+55,Nan,2013,12
+55,Nan,2014,15
+55,Nan,2015,13
+55,Nan,2016,10
+55,Nan,2017,11
+55,Nan,2018,17
+55,Nan,2019,16
+55,Nan,2020,12
+55,Nan,2021,12
+55,Nan,2022,11
+55,Nan,2023,12
+56,Phayao,1979,15
+56,Phayao,1980,9
+56,Phayao,1981,9
+56,Phayao,1982,11
+56,Phayao,1983,11
+56,Phayao,1984,11
+56,Phayao,1985,12
+56,Phayao,1986,13
+56,Phayao,1987,14
+56,Phayao,1988,11
+56,Phayao,1989,10
+56,Phayao,1990,11
+56,Phayao,1991,11
+56,Phayao,1992,13
+56,Phayao,1993,19
+56,Phayao,1994,12
+56,Phayao,1995,15
+56,Phayao,1996,12
+56,Phayao,1997,15
+56,Phayao,1998,15
+56,Phayao,1999,11
+56,Phayao,2000,11
+56,Phayao,2001,8
+56,Phayao,2002,15
+56,Phayao,2003,14
+56,Phayao,2004,14
+56,Phayao,2005,11
+56,Phayao,2006,15
+56,Phayao,2007,13
+56,Phayao,2008,9
+56,Phayao,2009,11
+56,Phayao,2010,11
+56,Phayao,2011,13
+56,Phayao,2012,15
+56,Phayao,2013,13
+56,Phayao,2014,15
+56,Phayao,2015,14
+56,Phayao,2016,10
+56,Phayao,2017,11
+56,Phayao,2018,13
+56,Phayao,2019,17
+56,Phayao,2020,11
+56,Phayao,2021,11
+56,Phayao,2022,12
+56,Phayao,2023,13
+57,Chiang Rai,1979,20
+57,Chiang Rai,1980,10
+57,Chiang Rai,1981,9
+57,Chiang Rai,1982,11
+57,Chiang Rai,1983,9
+57,Chiang Rai,1984,10
+57,Chiang Rai,1985,12
+57,Chiang Rai,1986,11
+57,Chiang Rai,1987,14
+57,Chiang Rai,1988,9
+57,Chiang Rai,1989,9
+57,Chiang Rai,1990,11
+57,Chiang Rai,1991,14
+57,Chiang Rai,1992,12
+57,Chiang Rai,1993,12
+57,Chiang Rai,1994,11
+57,Chiang Rai,1995,18
+57,Chiang Rai,1996,14
+57,Chiang Rai,1997,13
+57,Chiang Rai,1998,14
+57,Chiang Rai,1999,9
+57,Chiang Rai,2000,13
+57,Chiang Rai,2001,7
+57,Chiang Rai,2002,15
+57,Chiang Rai,2003,17
+57,Chiang Rai,2004,14
+57,Chiang Rai,2005,9
+57,Chiang Rai,2006,14
+57,Chiang Rai,2007,12
+57,Chiang Rai,2008,9
+57,Chiang Rai,2009,12
+57,Chiang Rai,2010,9
+57,Chiang Rai,2011,12
+57,Chiang Rai,2012,14
+57,Chiang Rai,2013,12
+57,Chiang Rai,2014,12
+57,Chiang Rai,2015,15
+57,Chiang Rai,2016,11
+57,Chiang Rai,2017,9
+57,Chiang Rai,2018,10
+57,Chiang Rai,2019,15
+57,Chiang Rai,2020,9
+57,Chiang Rai,2021,12
+57,Chiang Rai,2022,14
+57,Chiang Rai,2023,12
+58,Mae Hong Son,1979,18
+58,Mae Hong Son,1980,11
+58,Mae Hong Son,1981,9
+58,Mae Hong Son,1982,10
+58,Mae Hong Son,1983,14
+58,Mae Hong Son,1984,10
+58,Mae Hong Son,1985,10
+58,Mae Hong Son,1986,12
+58,Mae Hong Son,1987,15
+58,Mae Hong Son,1988,10
+58,Mae Hong Son,1989,9
+58,Mae Hong Son,1990,9
+58,Mae Hong Son,1991,10
+58,Mae Hong Son,1992,12
+58,Mae Hong Son,1993,13
+58,Mae Hong Son,1994,12
+58,Mae Hong Son,1995,12
+58,Mae Hong Son,1996,10
+58,Mae Hong Son,1997,13
+58,Mae Hong Son,1998,15
+58,Mae Hong Son,1999,9
+58,Mae Hong Son,2000,8
+58,Mae Hong Son,2001,9
+58,Mae Hong Son,2002,14
+58,Mae Hong Son,2003,11
+58,Mae Hong Son,2004,15
+58,Mae Hong Son,2005,13
+58,Mae Hong Son,2006,15
+58,Mae Hong Son,2007,14
+58,Mae Hong Son,2008,9
+58,Mae Hong Son,2009,9
+58,Mae Hong Son,2010,11
+58,Mae Hong Son,2011,11
+58,Mae Hong Son,2012,13
+58,Mae Hong Son,2013,11
+58,Mae Hong Son,2014,11
+58,Mae Hong Son,2015,14
+58,Mae Hong Son,2016,14
+58,Mae Hong Son,2017,8
+58,Mae Hong Son,2018,10
+58,Mae Hong Son,2019,21
+58,Mae Hong Son,2020,14
+58,Mae Hong Son,2021,13
+58,Mae Hong Son,2022,15
+58,Mae Hong Son,2023,9
+60,Nakhon Sawan,1979,26
+60,Nakhon Sawan,1980,9
+60,Nakhon Sawan,1981,11
+60,Nakhon Sawan,1982,11
+60,Nakhon Sawan,1983,10
+60,Nakhon Sawan,1984,13
+60,Nakhon Sawan,1985,9
+60,Nakhon Sawan,1986,13
+60,Nakhon Sawan,1987,13
+60,Nakhon Sawan,1988,9
+60,Nakhon Sawan,1989,11
+60,Nakhon Sawan,1990,11
+60,Nakhon Sawan,1991,12
+60,Nakhon Sawan,1992,13
+60,Nakhon Sawan,1993,16
+60,Nakhon Sawan,1994,13
+60,Nakhon Sawan,1995,13
+60,Nakhon Sawan,1996,11
+60,Nakhon Sawan,1997,15
+60,Nakhon Sawan,1998,14
+60,Nakhon Sawan,1999,10
+60,Nakhon Sawan,2000,10
+60,Nakhon Sawan,2001,11
+60,Nakhon Sawan,2002,12
+60,Nakhon Sawan,2003,15
+60,Nakhon Sawan,2004,24
+60,Nakhon Sawan,2005,13
+60,Nakhon Sawan,2006,15
+60,Nakhon Sawan,2007,15
+60,Nakhon Sawan,2008,10
+60,Nakhon Sawan,2009,11
+60,Nakhon Sawan,2010,10
+60,Nakhon Sawan,2011,13
+60,Nakhon Sawan,2012,15
+60,Nakhon Sawan,2013,13
+60,Nakhon Sawan,2014,11
+60,Nakhon Sawan,2015,14
+60,Nakhon Sawan,2016,12
+60,Nakhon Sawan,2017,9
+60,Nakhon Sawan,2018,17
+60,Nakhon Sawan,2019,16
+60,Nakhon Sawan,2020,12
+60,Nakhon Sawan,2021,14
+60,Nakhon Sawan,2022,14
+60,Nakhon Sawan,2023,12
+61,Uthai Thani,1979,23
+61,Uthai Thani,1980,10
+61,Uthai Thani,1981,10
+61,Uthai Thani,1982,10
+61,Uthai Thani,1983,11
+61,Uthai Thani,1984,12
+61,Uthai Thani,1985,9
+61,Uthai Thani,1986,12
+61,Uthai Thani,1987,13
+61,Uthai Thani,1988,9
+61,Uthai Thani,1989,11
+61,Uthai Thani,1990,11
+61,Uthai Thani,1991,11
+61,Uthai Thani,1992,13
+61,Uthai Thani,1993,15
+61,Uthai Thani,1994,13
+61,Uthai Thani,1995,12
+61,Uthai Thani,1996,11
+61,Uthai Thani,1997,15
+61,Uthai Thani,1998,13
+61,Uthai Thani,1999,10
+61,Uthai Thani,2000,10
+61,Uthai Thani,2001,11
+61,Uthai Thani,2002,13
+61,Uthai Thani,2003,13
+61,Uthai Thani,2004,22
+61,Uthai Thani,2005,12
+61,Uthai Thani,2006,14
+61,Uthai Thani,2007,15
+61,Uthai Thani,2008,10
+61,Uthai Thani,2009,11
+61,Uthai Thani,2010,11
+61,Uthai Thani,2011,12
+61,Uthai Thani,2012,13
+61,Uthai Thani,2013,12
+61,Uthai Thani,2014,11
+61,Uthai Thani,2015,15
+61,Uthai Thani,2016,12
+61,Uthai Thani,2017,10
+61,Uthai Thani,2018,14
+61,Uthai Thani,2019,16
+61,Uthai Thani,2020,12
+61,Uthai Thani,2021,13
+61,Uthai Thani,2022,14
+61,Uthai Thani,2023,12
+62,Kamphaeng Phet,1979,21
+62,Kamphaeng Phet,1980,8
+62,Kamphaeng Phet,1981,11
+62,Kamphaeng Phet,1982,9
+62,Kamphaeng Phet,1983,11
+62,Kamphaeng Phet,1984,10
+62,Kamphaeng Phet,1985,9
+62,Kamphaeng Phet,1986,11
+62,Kamphaeng Phet,1987,15
+62,Kamphaeng Phet,1988,9
+62,Kamphaeng Phet,1989,11
+62,Kamphaeng Phet,1990,12
+62,Kamphaeng Phet,1991,10
+62,Kamphaeng Phet,1992,15
+62,Kamphaeng Phet,1993,16
+62,Kamphaeng Phet,1994,13
+62,Kamphaeng Phet,1995,13
+62,Kamphaeng Phet,1996,11
+62,Kamphaeng Phet,1997,15
+62,Kamphaeng Phet,1998,15
+62,Kamphaeng Phet,1999,8
+62,Kamphaeng Phet,2000,9
+62,Kamphaeng Phet,2001,10
+62,Kamphaeng Phet,2002,12
+62,Kamphaeng Phet,2003,14
+62,Kamphaeng Phet,2004,22
+62,Kamphaeng Phet,2005,14
+62,Kamphaeng Phet,2006,13
+62,Kamphaeng Phet,2007,15
+62,Kamphaeng Phet,2008,9
+62,Kamphaeng Phet,2009,9
+62,Kamphaeng Phet,2010,12
+62,Kamphaeng Phet,2011,10
+62,Kamphaeng Phet,2012,13
+62,Kamphaeng Phet,2013,11
+62,Kamphaeng Phet,2014,11
+62,Kamphaeng Phet,2015,16
+62,Kamphaeng Phet,2016,12
+62,Kamphaeng Phet,2017,11
+62,Kamphaeng Phet,2018,13
+62,Kamphaeng Phet,2019,16
+62,Kamphaeng Phet,2020,13
+62,Kamphaeng Phet,2021,13
+62,Kamphaeng Phet,2022,13
+62,Kamphaeng Phet,2023,11
+63,Tak,1979,20
+63,Tak,1980,12
+63,Tak,1981,10
+63,Tak,1982,10
+63,Tak,1983,13
+63,Tak,1984,10
+63,Tak,1985,9
+63,Tak,1986,10
+63,Tak,1987,14
+63,Tak,1988,9
+63,Tak,1989,10
+63,Tak,1990,11
+63,Tak,1991,10
+63,Tak,1992,14
+63,Tak,1993,15
+63,Tak,1994,14
+63,Tak,1995,12
+63,Tak,1996,11
+63,Tak,1997,15
+63,Tak,1998,14
+63,Tak,1999,9
+63,Tak,2000,10
+63,Tak,2001,10
+63,Tak,2002,12
+63,Tak,2003,14
+63,Tak,2004,23
+63,Tak,2005,13
+63,Tak,2006,14
+63,Tak,2007,15
+63,Tak,2008,10
+63,Tak,2009,9
+63,Tak,2010,11
+63,Tak,2011,11
+63,Tak,2012,14
+63,Tak,2013,12
+63,Tak,2014,11
+63,Tak,2015,15
+63,Tak,2016,12
+63,Tak,2017,10
+63,Tak,2018,12
+63,Tak,2019,14
+63,Tak,2020,13
+63,Tak,2021,13
+63,Tak,2022,13
+63,Tak,2023,11
+64,Sukhothai,1979,23
+64,Sukhothai,1980,8
+64,Sukhothai,1981,12
+64,Sukhothai,1982,9
+64,Sukhothai,1983,12
+64,Sukhothai,1984,11
+64,Sukhothai,1985,10
+64,Sukhothai,1986,11
+64,Sukhothai,1987,14
+64,Sukhothai,1988,9
+64,Sukhothai,1989,10
+64,Sukhothai,1990,13
+64,Sukhothai,1991,10
+64,Sukhothai,1992,16
+64,Sukhothai,1993,14
+64,Sukhothai,1994,12
+64,Sukhothai,1995,13
+64,Sukhothai,1996,12
+64,Sukhothai,1997,14
+64,Sukhothai,1998,16
+64,Sukhothai,1999,9
+64,Sukhothai,2000,10
+64,Sukhothai,2001,11
+64,Sukhothai,2002,12
+64,Sukhothai,2003,16
+64,Sukhothai,2004,21
+64,Sukhothai,2005,13
+64,Sukhothai,2006,16
+64,Sukhothai,2007,15
+64,Sukhothai,2008,7
+64,Sukhothai,2009,9
+64,Sukhothai,2010,13
+64,Sukhothai,2011,12
+64,Sukhothai,2012,14
+64,Sukhothai,2013,10
+64,Sukhothai,2014,11
+64,Sukhothai,2015,13
+64,Sukhothai,2016,13
+64,Sukhothai,2017,10
+64,Sukhothai,2018,13
+64,Sukhothai,2019,19
+64,Sukhothai,2020,11
+64,Sukhothai,2021,15
+64,Sukhothai,2022,16
+64,Sukhothai,2023,12
+65,Phitsanulok,1979,24
+65,Phitsanulok,1980,9
+65,Phitsanulok,1981,11
+65,Phitsanulok,1982,10
+65,Phitsanulok,1983,11
+65,Phitsanulok,1984,11
+65,Phitsanulok,1985,10
+65,Phitsanulok,1986,13
+65,Phitsanulok,1987,13
+65,Phitsanulok,1988,9
+65,Phitsanulok,1989,11
+65,Phitsanulok,1990,11
+65,Phitsanulok,1991,10
+65,Phitsanulok,1992,14
+65,Phitsanulok,1993,17
+65,Phitsanulok,1994,13
+65,Phitsanulok,1995,14
+65,Phitsanulok,1996,13
+65,Phitsanulok,1997,15
+65,Phitsanulok,1998,15
+65,Phitsanulok,1999,9
+65,Phitsanulok,2000,11
+65,Phitsanulok,2001,11
+65,Phitsanulok,2002,13
+65,Phitsanulok,2003,16
+65,Phitsanulok,2004,23
+65,Phitsanulok,2005,15
+65,Phitsanulok,2006,15
+65,Phitsanulok,2007,15
+65,Phitsanulok,2008,9
+65,Phitsanulok,2009,9
+65,Phitsanulok,2010,13
+65,Phitsanulok,2011,13
+65,Phitsanulok,2012,16
+65,Phitsanulok,2013,12
+65,Phitsanulok,2014,13
+65,Phitsanulok,2015,15
+65,Phitsanulok,2016,13
+65,Phitsanulok,2017,11
+65,Phitsanulok,2018,13
+65,Phitsanulok,2019,18
+65,Phitsanulok,2020,12
+65,Phitsanulok,2021,14
+65,Phitsanulok,2022,15
+65,Phitsanulok,2023,13
+66,Phichit,1979,23
+66,Phichit,1980,7
+66,Phichit,1981,9
+66,Phichit,1982,9
+66,Phichit,1983,9
+66,Phichit,1984,11
+66,Phichit,1985,8
+66,Phichit,1986,11
+66,Phichit,1987,11
+66,Phichit,1988,7
+66,Phichit,1989,9
+66,Phichit,1990,9
+66,Phichit,1991,8
+66,Phichit,1992,14
+66,Phichit,1993,17
+66,Phichit,1994,13
+66,Phichit,1995,14
+66,Phichit,1996,12
+66,Phichit,1997,15
+66,Phichit,1998,14
+66,Phichit,1999,8
+66,Phichit,2000,10
+66,Phichit,2001,10
+66,Phichit,2002,11
+66,Phichit,2003,14
+66,Phichit,2004,26
+66,Phichit,2005,13
+66,Phichit,2006,15
+66,Phichit,2007,15
+66,Phichit,2008,10
+66,Phichit,2009,10
+66,Phichit,2010,14
+66,Phichit,2011,14
+66,Phichit,2012,15
+66,Phichit,2013,13
+66,Phichit,2014,16
+66,Phichit,2015,19
+66,Phichit,2016,12
+66,Phichit,2017,9
+66,Phichit,2018,14
+66,Phichit,2019,17
+66,Phichit,2020,14
+66,Phichit,2021,16
+66,Phichit,2022,13
+66,Phichit,2023,11
+67,Phetchabun,1979,27
+67,Phetchabun,1980,9
+67,Phetchabun,1981,12
+67,Phetchabun,1982,11
+67,Phetchabun,1983,10
+67,Phetchabun,1984,14
+67,Phetchabun,1985,12
+67,Phetchabun,1986,17
+67,Phetchabun,1987,13
+67,Phetchabun,1988,9
+67,Phetchabun,1989,10
+67,Phetchabun,1990,11
+67,Phetchabun,1991,10
+67,Phetchabun,1992,14
+67,Phetchabun,1993,16
+67,Phetchabun,1994,15
+67,Phetchabun,1995,14
+67,Phetchabun,1996,13
+67,Phetchabun,1997,15
+67,Phetchabun,1998,15
+67,Phetchabun,1999,10
+67,Phetchabun,2000,11
+67,Phetchabun,2001,12
+67,Phetchabun,2002,12
+67,Phetchabun,2003,16
+67,Phetchabun,2004,30
+67,Phetchabun,2005,13
+67,Phetchabun,2006,18
+67,Phetchabun,2007,17
+67,Phetchabun,2008,10
+67,Phetchabun,2009,10
+67,Phetchabun,2010,11
+67,Phetchabun,2011,14
+67,Phetchabun,2012,19
+67,Phetchabun,2013,13
+67,Phetchabun,2014,12
+67,Phetchabun,2015,16
+67,Phetchabun,2016,11
+67,Phetchabun,2017,10
+67,Phetchabun,2018,15
+67,Phetchabun,2019,17
+67,Phetchabun,2020,12
+67,Phetchabun,2021,14
+67,Phetchabun,2022,15
+67,Phetchabun,2023,11
+70,Ratchaburi,1979,20
+70,Ratchaburi,1980,9
+70,Ratchaburi,1981,8
+70,Ratchaburi,1982,8
+70,Ratchaburi,1983,11
+70,Ratchaburi,1984,12
+70,Ratchaburi,1985,8
+70,Ratchaburi,1986,11
+70,Ratchaburi,1987,12
+70,Ratchaburi,1988,8
+70,Ratchaburi,1989,9
+70,Ratchaburi,1990,10
+70,Ratchaburi,1991,10
+70,Ratchaburi,1992,12
+70,Ratchaburi,1993,13
+70,Ratchaburi,1994,13
+70,Ratchaburi,1995,9
+70,Ratchaburi,1996,11
+70,Ratchaburi,1997,17
+70,Ratchaburi,1998,12
+70,Ratchaburi,1999,13
+70,Ratchaburi,2000,10
+70,Ratchaburi,2001,14
+70,Ratchaburi,2002,14
+70,Ratchaburi,2003,11
+70,Ratchaburi,2004,17
+70,Ratchaburi,2005,10
+70,Ratchaburi,2006,14
+70,Ratchaburi,2007,15
+70,Ratchaburi,2008,11
+70,Ratchaburi,2009,15
+70,Ratchaburi,2010,13
+70,Ratchaburi,2011,10
+70,Ratchaburi,2012,12
+70,Ratchaburi,2013,10
+70,Ratchaburi,2014,7
+70,Ratchaburi,2015,15
+70,Ratchaburi,2016,15
+70,Ratchaburi,2017,11
+70,Ratchaburi,2018,17
+70,Ratchaburi,2019,13
+70,Ratchaburi,2020,13
+70,Ratchaburi,2021,13
+70,Ratchaburi,2022,11
+70,Ratchaburi,2023,11
+71,Kanchanaburi,1979,22
+71,Kanchanaburi,1980,10
+71,Kanchanaburi,1981,10
+71,Kanchanaburi,1982,10
+71,Kanchanaburi,1983,11
+71,Kanchanaburi,1984,13
+71,Kanchanaburi,1985,9
+71,Kanchanaburi,1986,11
+71,Kanchanaburi,1987,13
+71,Kanchanaburi,1988,9
+71,Kanchanaburi,1989,10
+71,Kanchanaburi,1990,11
+71,Kanchanaburi,1991,11
+71,Kanchanaburi,1992,13
+71,Kanchanaburi,1993,12
+71,Kanchanaburi,1994,13
+71,Kanchanaburi,1995,10
+71,Kanchanaburi,1996,12
+71,Kanchanaburi,1997,17
+71,Kanchanaburi,1998,13
+71,Kanchanaburi,1999,9
+71,Kanchanaburi,2000,10
+71,Kanchanaburi,2001,11
+71,Kanchanaburi,2002,13
+71,Kanchanaburi,2003,11
+71,Kanchanaburi,2004,22
+71,Kanchanaburi,2005,11
+71,Kanchanaburi,2006,14
+71,Kanchanaburi,2007,15
+71,Kanchanaburi,2008,9
+71,Kanchanaburi,2009,12
+71,Kanchanaburi,2010,11
+71,Kanchanaburi,2011,13
+71,Kanchanaburi,2012,11
+71,Kanchanaburi,2013,10
+71,Kanchanaburi,2014,9
+71,Kanchanaburi,2015,15
+71,Kanchanaburi,2016,12
+71,Kanchanaburi,2017,10
+71,Kanchanaburi,2018,13
+71,Kanchanaburi,2019,15
+71,Kanchanaburi,2020,12
+71,Kanchanaburi,2021,13
+71,Kanchanaburi,2022,13
+71,Kanchanaburi,2023,11
+72,Suphan Buri,1979,24
+72,Suphan Buri,1980,9
+72,Suphan Buri,1981,12
+72,Suphan Buri,1982,11
+72,Suphan Buri,1983,12
+72,Suphan Buri,1984,14
+72,Suphan Buri,1985,10
+72,Suphan Buri,1986,12
+72,Suphan Buri,1987,15
+72,Suphan Buri,1988,10
+72,Suphan Buri,1989,11
+72,Suphan Buri,1990,12
+72,Suphan Buri,1991,12
+72,Suphan Buri,1992,12
+72,Suphan Buri,1993,14
+72,Suphan Buri,1994,15
+72,Suphan Buri,1995,11
+72,Suphan Buri,1996,13
+72,Suphan Buri,1997,16
+72,Suphan Buri,1998,13
+72,Suphan Buri,1999,11
+72,Suphan Buri,2000,11
+72,Suphan Buri,2001,12
+72,Suphan Buri,2002,14
+72,Suphan Buri,2003,11
+72,Suphan Buri,2004,21
+72,Suphan Buri,2005,11
+72,Suphan Buri,2006,14
+72,Suphan Buri,2007,15
+72,Suphan Buri,2008,11
+72,Suphan Buri,2009,13
+72,Suphan Buri,2010,11
+72,Suphan Buri,2011,12
+72,Suphan Buri,2012,12
+72,Suphan Buri,2013,14
+72,Suphan Buri,2014,11
+72,Suphan Buri,2015,15
+72,Suphan Buri,2016,13
+72,Suphan Buri,2017,10
+72,Suphan Buri,2018,14
+72,Suphan Buri,2019,16
+72,Suphan Buri,2020,16
+72,Suphan Buri,2021,14
+72,Suphan Buri,2022,12
+72,Suphan Buri,2023,11
+73,Nakhon Pathom,1979,22
+73,Nakhon Pathom,1980,9
+73,Nakhon Pathom,1981,9
+73,Nakhon Pathom,1982,10
+73,Nakhon Pathom,1983,12
+73,Nakhon Pathom,1984,13
+73,Nakhon Pathom,1985,11
+73,Nakhon Pathom,1986,11
+73,Nakhon Pathom,1987,16
+73,Nakhon Pathom,1988,10
+73,Nakhon Pathom,1989,10
+73,Nakhon Pathom,1990,12
+73,Nakhon Pathom,1991,10
+73,Nakhon Pathom,1992,11
+73,Nakhon Pathom,1993,13
+73,Nakhon Pathom,1994,15
+73,Nakhon Pathom,1995,10
+73,Nakhon Pathom,1996,12
+73,Nakhon Pathom,1997,20
+73,Nakhon Pathom,1998,11
+73,Nakhon Pathom,1999,10
+73,Nakhon Pathom,2000,10
+73,Nakhon Pathom,2001,14
+73,Nakhon Pathom,2002,12
+73,Nakhon Pathom,2003,10
+73,Nakhon Pathom,2004,18
+73,Nakhon Pathom,2005,10
+73,Nakhon Pathom,2006,13
+73,Nakhon Pathom,2007,15
+73,Nakhon Pathom,2008,10
+73,Nakhon Pathom,2009,12
+73,Nakhon Pathom,2010,12
+73,Nakhon Pathom,2011,10
+73,Nakhon Pathom,2012,10
+73,Nakhon Pathom,2013,12
+73,Nakhon Pathom,2014,8
+73,Nakhon Pathom,2015,14
+73,Nakhon Pathom,2016,14
+73,Nakhon Pathom,2017,10
+73,Nakhon Pathom,2018,13
+73,Nakhon Pathom,2019,14
+73,Nakhon Pathom,2020,17
+73,Nakhon Pathom,2021,13
+73,Nakhon Pathom,2022,11
+73,Nakhon Pathom,2023,12
+74,Samut Sakhon,1979,21
+74,Samut Sakhon,1980,9
+74,Samut Sakhon,1981,10
+74,Samut Sakhon,1982,10
+74,Samut Sakhon,1983,11
+74,Samut Sakhon,1984,13
+74,Samut Sakhon,1985,11
+74,Samut Sakhon,1986,11
+74,Samut Sakhon,1987,12
+74,Samut Sakhon,1988,8
+74,Samut Sakhon,1989,9
+74,Samut Sakhon,1990,11
+74,Samut Sakhon,1991,11
+74,Samut Sakhon,1992,11
+74,Samut Sakhon,1993,13
+74,Samut Sakhon,1994,14
+74,Samut Sakhon,1995,10
+74,Samut Sakhon,1996,11
+74,Samut Sakhon,1997,16
+74,Samut Sakhon,1998,12
+74,Samut Sakhon,1999,12
+74,Samut Sakhon,2000,9
+74,Samut Sakhon,2001,14
+74,Samut Sakhon,2002,12
+74,Samut Sakhon,2003,10
+74,Samut Sakhon,2004,17
+74,Samut Sakhon,2005,11
+74,Samut Sakhon,2006,13
+74,Samut Sakhon,2007,15
+74,Samut Sakhon,2008,10
+74,Samut Sakhon,2009,12
+74,Samut Sakhon,2010,11
+74,Samut Sakhon,2011,10
+74,Samut Sakhon,2012,11
+74,Samut Sakhon,2013,11
+74,Samut Sakhon,2014,8
+74,Samut Sakhon,2015,14
+74,Samut Sakhon,2016,15
+74,Samut Sakhon,2017,10
+74,Samut Sakhon,2018,12
+74,Samut Sakhon,2019,13
+74,Samut Sakhon,2020,13
+74,Samut Sakhon,2021,13
+74,Samut Sakhon,2022,12
+74,Samut Sakhon,2023,13
+75,Samut Songkhram,1979,19
+75,Samut Songkhram,1980,9
+75,Samut Songkhram,1981,8
+75,Samut Songkhram,1982,8
+75,Samut Songkhram,1983,10
+75,Samut Songkhram,1984,11
+75,Samut Songkhram,1985,8
+75,Samut Songkhram,1986,11
+75,Samut Songkhram,1987,11
+75,Samut Songkhram,1988,7
+75,Samut Songkhram,1989,8
+75,Samut Songkhram,1990,9
+75,Samut Songkhram,1991,9
+75,Samut Songkhram,1992,11
+75,Samut Songkhram,1993,13
+75,Samut Songkhram,1994,12
+75,Samut Songkhram,1995,9
+75,Samut Songkhram,1996,11
+75,Samut Songkhram,1997,16
+75,Samut Songkhram,1998,11
+75,Samut Songkhram,1999,14
+75,Samut Songkhram,2000,9
+75,Samut Songkhram,2001,15
+75,Samut Songkhram,2002,15
+75,Samut Songkhram,2003,11
+75,Samut Songkhram,2004,16
+75,Samut Songkhram,2005,10
+75,Samut Songkhram,2006,13
+75,Samut Songkhram,2007,15
+75,Samut Songkhram,2008,11
+75,Samut Songkhram,2009,15
+75,Samut Songkhram,2010,14
+75,Samut Songkhram,2011,10
+75,Samut Songkhram,2012,12
+75,Samut Songkhram,2013,10
+75,Samut Songkhram,2014,7
+75,Samut Songkhram,2015,15
+75,Samut Songkhram,2016,16
+75,Samut Songkhram,2017,12
+75,Samut Songkhram,2018,18
+75,Samut Songkhram,2019,12
+75,Samut Songkhram,2020,12
+75,Samut Songkhram,2021,13
+75,Samut Songkhram,2022,12
+75,Samut Songkhram,2023,12
+76,Phetchaburi,1979,20
+76,Phetchaburi,1980,10
+76,Phetchaburi,1981,10
+76,Phetchaburi,1982,9
+76,Phetchaburi,1983,14
+76,Phetchaburi,1984,12
+76,Phetchaburi,1985,9
+76,Phetchaburi,1986,15
+76,Phetchaburi,1987,16
+76,Phetchaburi,1988,10
+76,Phetchaburi,1989,11
+76,Phetchaburi,1990,13
+76,Phetchaburi,1991,15
+76,Phetchaburi,1992,15
+76,Phetchaburi,1993,15
+76,Phetchaburi,1994,12
+76,Phetchaburi,1995,10
+76,Phetchaburi,1996,11
+76,Phetchaburi,1997,17
+76,Phetchaburi,1998,12
+76,Phetchaburi,1999,13
+76,Phetchaburi,2000,11
+76,Phetchaburi,2001,14
+76,Phetchaburi,2002,13
+76,Phetchaburi,2003,11
+76,Phetchaburi,2004,18
+76,Phetchaburi,2005,11
+76,Phetchaburi,2006,13
+76,Phetchaburi,2007,13
+76,Phetchaburi,2008,12
+76,Phetchaburi,2009,12
+76,Phetchaburi,2010,12
+76,Phetchaburi,2011,10
+76,Phetchaburi,2012,11
+76,Phetchaburi,2013,11
+76,Phetchaburi,2014,8
+76,Phetchaburi,2015,15
+76,Phetchaburi,2016,16
+76,Phetchaburi,2017,14
+76,Phetchaburi,2018,14
+76,Phetchaburi,2019,14
+76,Phetchaburi,2020,14
+76,Phetchaburi,2021,14
+76,Phetchaburi,2022,13
+76,Phetchaburi,2023,13
+77,Prachuap Khiri Khan,1979,19
+77,Prachuap Khiri Khan,1980,12
+77,Prachuap Khiri Khan,1981,11
+77,Prachuap Khiri Khan,1982,9
+77,Prachuap Khiri Khan,1983,14
+77,Prachuap Khiri Khan,1984,12
+77,Prachuap Khiri Khan,1985,10
+77,Prachuap Khiri Khan,1986,13
+77,Prachuap Khiri Khan,1987,18
+77,Prachuap Khiri Khan,1988,10
+77,Prachuap Khiri Khan,1989,11
+77,Prachuap Khiri Khan,1990,13
+77,Prachuap Khiri Khan,1991,14
+77,Prachuap Khiri Khan,1992,18
+77,Prachuap Khiri Khan,1993,15
+77,Prachuap Khiri Khan,1994,13
+77,Prachuap Khiri Khan,1995,10
+77,Prachuap Khiri Khan,1996,11
+77,Prachuap Khiri Khan,1997,18
+77,Prachuap Khiri Khan,1998,13
+77,Prachuap Khiri Khan,1999,13
+77,Prachuap Khiri Khan,2000,12
+77,Prachuap Khiri Khan,2001,12
+77,Prachuap Khiri Khan,2002,12
+77,Prachuap Khiri Khan,2003,12
+77,Prachuap Khiri Khan,2004,19
+77,Prachuap Khiri Khan,2005,12
+77,Prachuap Khiri Khan,2006,14
+77,Prachuap Khiri Khan,2007,12
+77,Prachuap Khiri Khan,2008,13
+77,Prachuap Khiri Khan,2009,12
+77,Prachuap Khiri Khan,2010,10
+77,Prachuap Khiri Khan,2011,10
+77,Prachuap Khiri Khan,2012,12
+77,Prachuap Khiri Khan,2013,12
+77,Prachuap Khiri Khan,2014,7
+77,Prachuap Khiri Khan,2015,12
+77,Prachuap Khiri Khan,2016,15
+77,Prachuap Khiri Khan,2017,13
+77,Prachuap Khiri Khan,2018,12
+77,Prachuap Khiri Khan,2019,14
+77,Prachuap Khiri Khan,2020,15
+77,Prachuap Khiri Khan,2021,13
+77,Prachuap Khiri Khan,2022,13
+77,Prachuap Khiri Khan,2023,15
+80,Nakhon Si Thammarat,1979,10
+80,Nakhon Si Thammarat,1980,7
+80,Nakhon Si Thammarat,1981,14
+80,Nakhon Si Thammarat,1982,10
+80,Nakhon Si Thammarat,1983,7
+80,Nakhon Si Thammarat,1984,9
+80,Nakhon Si Thammarat,1985,13
+80,Nakhon Si Thammarat,1986,7
+80,Nakhon Si Thammarat,1987,18
+80,Nakhon Si Thammarat,1988,7
+80,Nakhon Si Thammarat,1989,8
+80,Nakhon Si Thammarat,1990,12
+80,Nakhon Si Thammarat,1991,11
+80,Nakhon Si Thammarat,1992,9
+80,Nakhon Si Thammarat,1993,9
+80,Nakhon Si Thammarat,1994,9
+80,Nakhon Si Thammarat,1995,9
+80,Nakhon Si Thammarat,1996,10
+80,Nakhon Si Thammarat,1997,10
+80,Nakhon Si Thammarat,1998,8
+80,Nakhon Si Thammarat,1999,15
+80,Nakhon Si Thammarat,2000,11
+80,Nakhon Si Thammarat,2001,8
+80,Nakhon Si Thammarat,2002,11
+80,Nakhon Si Thammarat,2003,10
+80,Nakhon Si Thammarat,2004,16
+80,Nakhon Si Thammarat,2005,9
+80,Nakhon Si Thammarat,2006,8
+80,Nakhon Si Thammarat,2007,13
+80,Nakhon Si Thammarat,2008,10
+80,Nakhon Si Thammarat,2009,11
+80,Nakhon Si Thammarat,2010,9
+80,Nakhon Si Thammarat,2011,9
+80,Nakhon Si Thammarat,2012,19
+80,Nakhon Si Thammarat,2013,11
+80,Nakhon Si Thammarat,2014,5
+80,Nakhon Si Thammarat,2015,10
+80,Nakhon Si Thammarat,2016,13
+80,Nakhon Si Thammarat,2017,11
+80,Nakhon Si Thammarat,2018,10
+80,Nakhon Si Thammarat,2019,13
+80,Nakhon Si Thammarat,2020,11
+80,Nakhon Si Thammarat,2021,11
+80,Nakhon Si Thammarat,2022,10
+80,Nakhon Si Thammarat,2023,6
+81,Krabi,1979,7
+81,Krabi,1980,3
+81,Krabi,1981,8
+81,Krabi,1982,6
+81,Krabi,1983,4
+81,Krabi,1984,6
+81,Krabi,1985,8
+81,Krabi,1986,5
+81,Krabi,1987,12
+81,Krabi,1988,6
+81,Krabi,1989,5
+81,Krabi,1990,8
+81,Krabi,1991,9
+81,Krabi,1992,6
+81,Krabi,1993,6
+81,Krabi,1994,8
+81,Krabi,1995,8
+81,Krabi,1996,7
+81,Krabi,1997,9
+81,Krabi,1998,7
+81,Krabi,1999,13
+81,Krabi,2000,10
+81,Krabi,2001,7
+81,Krabi,2002,7
+81,Krabi,2003,8
+81,Krabi,2004,7
+81,Krabi,2005,7
+81,Krabi,2006,6
+81,Krabi,2007,9
+81,Krabi,2008,10
+81,Krabi,2009,11
+81,Krabi,2010,8
+81,Krabi,2011,10
+81,Krabi,2012,17
+81,Krabi,2013,9
+81,Krabi,2014,6
+81,Krabi,2015,9
+81,Krabi,2016,8
+81,Krabi,2017,9
+81,Krabi,2018,8
+81,Krabi,2019,12
+81,Krabi,2020,11
+81,Krabi,2021,10
+81,Krabi,2022,11
+81,Krabi,2023,6
+82,Phang Nga,1979,11
+82,Phang Nga,1980,5
+82,Phang Nga,1981,13
+82,Phang Nga,1982,8
+82,Phang Nga,1983,6
+82,Phang Nga,1984,7
+82,Phang Nga,1985,10
+82,Phang Nga,1986,6
+82,Phang Nga,1987,14
+82,Phang Nga,1988,7
+82,Phang Nga,1989,8
+82,Phang Nga,1990,10
+82,Phang Nga,1991,10
+82,Phang Nga,1992,8
+82,Phang Nga,1993,8
+82,Phang Nga,1994,9
+82,Phang Nga,1995,8
+82,Phang Nga,1996,9
+82,Phang Nga,1997,10
+82,Phang Nga,1998,7
+82,Phang Nga,1999,12
+82,Phang Nga,2000,11
+82,Phang Nga,2001,7
+82,Phang Nga,2002,8
+82,Phang Nga,2003,9
+82,Phang Nga,2004,11
+82,Phang Nga,2005,8
+82,Phang Nga,2006,7
+82,Phang Nga,2007,9
+82,Phang Nga,2008,11
+82,Phang Nga,2009,9
+82,Phang Nga,2010,7
+82,Phang Nga,2011,8
+82,Phang Nga,2012,15
+82,Phang Nga,2013,8
+82,Phang Nga,2014,6
+82,Phang Nga,2015,9
+82,Phang Nga,2016,8
+82,Phang Nga,2017,10
+82,Phang Nga,2018,8
+82,Phang Nga,2019,12
+82,Phang Nga,2020,11
+82,Phang Nga,2021,8
+82,Phang Nga,2022,9
+82,Phang Nga,2023,7
+83,Phuket,1979,6
+83,Phuket,1980,5
+83,Phuket,1981,17
+83,Phuket,1982,8
+83,Phuket,1983,6
+83,Phuket,1984,7
+83,Phuket,1985,11
+83,Phuket,1986,5
+83,Phuket,1987,14
+83,Phuket,1988,7
+83,Phuket,1989,9
+83,Phuket,1990,7
+83,Phuket,1991,10
+83,Phuket,1992,9
+83,Phuket,1993,7
+83,Phuket,1994,8
+83,Phuket,1995,6
+83,Phuket,1996,9
+83,Phuket,1997,10
+83,Phuket,1998,6
+83,Phuket,1999,11
+83,Phuket,2000,11
+83,Phuket,2001,6
+83,Phuket,2002,8
+83,Phuket,2003,8
+83,Phuket,2004,10
+83,Phuket,2005,9
+83,Phuket,2006,7
+83,Phuket,2007,8
+83,Phuket,2008,13
+83,Phuket,2009,9
+83,Phuket,2010,6
+83,Phuket,2011,8
+83,Phuket,2012,17
+83,Phuket,2013,8
+83,Phuket,2014,6
+83,Phuket,2015,8
+83,Phuket,2016,5
+83,Phuket,2017,10
+83,Phuket,2018,8
+83,Phuket,2019,13
+83,Phuket,2020,8
+83,Phuket,2021,6
+83,Phuket,2022,8
+83,Phuket,2023,7
+84,Surat Thani,1979,13
+84,Surat Thani,1980,6
+84,Surat Thani,1981,12
+84,Surat Thani,1982,8
+84,Surat Thani,1983,6
+84,Surat Thani,1984,8
+84,Surat Thani,1985,10
+84,Surat Thani,1986,7
+84,Surat Thani,1987,19
+84,Surat Thani,1988,8
+84,Surat Thani,1989,7
+84,Surat Thani,1990,14
+84,Surat Thani,1991,11
+84,Surat Thani,1992,8
+84,Surat Thani,1993,9
+84,Surat Thani,1994,9
+84,Surat Thani,1995,9
+84,Surat Thani,1996,9
+84,Surat Thani,1997,10
+84,Surat Thani,1998,7
+84,Surat Thani,1999,14
+84,Surat Thani,2000,12
+84,Surat Thani,2001,9
+84,Surat Thani,2002,10
+84,Surat Thani,2003,10
+84,Surat Thani,2004,11
+84,Surat Thani,2005,8
+84,Surat Thani,2006,7
+84,Surat Thani,2007,10
+84,Surat Thani,2008,12
+84,Surat Thani,2009,10
+84,Surat Thani,2010,9
+84,Surat Thani,2011,8
+84,Surat Thani,2012,13
+84,Surat Thani,2013,8
+84,Surat Thani,2014,5
+84,Surat Thani,2015,11
+84,Surat Thani,2016,12
+84,Surat Thani,2017,10
+84,Surat Thani,2018,8
+84,Surat Thani,2019,12
+84,Surat Thani,2020,12
+84,Surat Thani,2021,9
+84,Surat Thani,2022,11
+84,Surat Thani,2023,8
+85,Ranong,1979,14
+85,Ranong,1980,7
+85,Ranong,1981,11
+85,Ranong,1982,8
+85,Ranong,1983,12
+85,Ranong,1984,8
+85,Ranong,1985,9
+85,Ranong,1986,8
+85,Ranong,1987,14
+85,Ranong,1988,8
+85,Ranong,1989,9
+85,Ranong,1990,11
+85,Ranong,1991,11
+85,Ranong,1992,12
+85,Ranong,1993,10
+85,Ranong,1994,10
+85,Ranong,1995,10
+85,Ranong,1996,9
+85,Ranong,1997,11
+85,Ranong,1998,9
+85,Ranong,1999,12
+85,Ranong,2000,10
+85,Ranong,2001,10
+85,Ranong,2002,9
+85,Ranong,2003,12
+85,Ranong,2004,12
+85,Ranong,2005,9
+85,Ranong,2006,9
+85,Ranong,2007,11
+85,Ranong,2008,10
+85,Ranong,2009,10
+85,Ranong,2010,9
+85,Ranong,2011,8
+85,Ranong,2012,12
+85,Ranong,2013,10
+85,Ranong,2014,6
+85,Ranong,2015,11
+85,Ranong,2016,13
+85,Ranong,2017,11
+85,Ranong,2018,9
+85,Ranong,2019,12
+85,Ranong,2020,14
+85,Ranong,2021,9
+85,Ranong,2022,10
+85,Ranong,2023,10
+86,Chumphon,1979,13
+86,Chumphon,1980,8
+86,Chumphon,1981,11
+86,Chumphon,1982,8
+86,Chumphon,1983,15
+86,Chumphon,1984,8
+86,Chumphon,1985,9
+86,Chumphon,1986,8
+86,Chumphon,1987,14
+86,Chumphon,1988,8
+86,Chumphon,1989,9
+86,Chumphon,1990,11
+86,Chumphon,1991,12
+86,Chumphon,1992,14
+86,Chumphon,1993,10
+86,Chumphon,1994,11
+86,Chumphon,1995,11
+86,Chumphon,1996,9
+86,Chumphon,1997,12
+86,Chumphon,1998,10
+86,Chumphon,1999,13
+86,Chumphon,2000,9
+86,Chumphon,2001,11
+86,Chumphon,2002,9
+86,Chumphon,2003,13
+86,Chumphon,2004,12
+86,Chumphon,2005,9
+86,Chumphon,2006,11
+86,Chumphon,2007,12
+86,Chumphon,2008,11
+86,Chumphon,2009,10
+86,Chumphon,2010,10
+86,Chumphon,2011,8
+86,Chumphon,2012,12
+86,Chumphon,2013,11
+86,Chumphon,2014,5
+86,Chumphon,2015,11
+86,Chumphon,2016,15
+86,Chumphon,2017,12
+86,Chumphon,2018,9
+86,Chumphon,2019,12
+86,Chumphon,2020,15
+86,Chumphon,2021,9
+86,Chumphon,2022,11
+86,Chumphon,2023,12
+90,Songkhla,1979,10
+90,Songkhla,1980,8
+90,Songkhla,1981,22
+90,Songkhla,1982,13
+90,Songkhla,1983,10
+90,Songkhla,1984,18
+90,Songkhla,1985,16
+90,Songkhla,1986,12
+90,Songkhla,1987,24
+90,Songkhla,1988,11
+90,Songkhla,1989,11
+90,Songkhla,1990,18
+90,Songkhla,1991,16
+90,Songkhla,1992,11
+90,Songkhla,1993,14
+90,Songkhla,1994,9
+90,Songkhla,1995,11
+90,Songkhla,1996,16
+90,Songkhla,1997,15
+90,Songkhla,1998,9
+90,Songkhla,1999,11
+90,Songkhla,2000,17
+90,Songkhla,2001,16
+90,Songkhla,2002,14
+90,Songkhla,2003,16
+90,Songkhla,2004,15
+90,Songkhla,2005,15
+90,Songkhla,2006,10
+90,Songkhla,2007,13
+90,Songkhla,2008,10
+90,Songkhla,2009,15
+90,Songkhla,2010,12
+90,Songkhla,2011,14
+90,Songkhla,2012,21
+90,Songkhla,2013,15
+90,Songkhla,2014,9
+90,Songkhla,2015,13
+90,Songkhla,2016,13
+90,Songkhla,2017,11
+90,Songkhla,2018,13
+90,Songkhla,2019,14
+90,Songkhla,2020,10
+90,Songkhla,2021,13
+90,Songkhla,2022,9
+90,Songkhla,2023,8
+91,Satun,1979,9
+91,Satun,1980,5
+91,Satun,1981,21
+91,Satun,1982,13
+91,Satun,1983,8
+91,Satun,1984,15
+91,Satun,1985,17
+91,Satun,1986,14
+91,Satun,1987,18
+91,Satun,1988,10
+91,Satun,1989,11
+91,Satun,1990,17
+91,Satun,1991,14
+91,Satun,1992,11
+91,Satun,1993,11
+91,Satun,1994,9
+91,Satun,1995,11
+91,Satun,1996,13
+91,Satun,1997,14
+91,Satun,1998,10
+91,Satun,1999,11
+91,Satun,2000,16
+91,Satun,2001,14
+91,Satun,2002,12
+91,Satun,2003,14
+91,Satun,2004,14
+91,Satun,2005,18
+91,Satun,2006,9
+91,Satun,2007,11
+91,Satun,2008,10
+91,Satun,2009,15
+91,Satun,2010,10
+91,Satun,2011,12
+91,Satun,2012,20
+91,Satun,2013,14
+91,Satun,2014,10
+91,Satun,2015,12
+91,Satun,2016,13
+91,Satun,2017,12
+91,Satun,2018,13
+91,Satun,2019,14
+91,Satun,2020,10
+91,Satun,2021,12
+91,Satun,2022,9
+91,Satun,2023,8
+92,Trang,1979,9
+92,Trang,1980,6
+92,Trang,1981,16
+92,Trang,1982,10
+92,Trang,1983,7
+92,Trang,1984,10
+92,Trang,1985,14
+92,Trang,1986,9
+92,Trang,1987,16
+92,Trang,1988,8
+92,Trang,1989,9
+92,Trang,1990,13
+92,Trang,1991,11
+92,Trang,1992,9
+92,Trang,1993,9
+92,Trang,1994,8
+92,Trang,1995,9
+92,Trang,1996,10
+92,Trang,1997,11
+92,Trang,1998,9
+92,Trang,1999,13
+92,Trang,2000,12
+92,Trang,2001,10
+92,Trang,2002,11
+92,Trang,2003,11
+92,Trang,2004,13
+92,Trang,2005,11
+92,Trang,2006,8
+92,Trang,2007,11
+92,Trang,2008,9
+92,Trang,2009,12
+92,Trang,2010,9
+92,Trang,2011,10
+92,Trang,2012,19
+92,Trang,2013,11
+92,Trang,2014,7
+92,Trang,2015,10
+92,Trang,2016,11
+92,Trang,2017,11
+92,Trang,2018,10
+92,Trang,2019,14
+92,Trang,2020,10
+92,Trang,2021,11
+92,Trang,2022,9
+92,Trang,2023,6
+93,Phatthalung,1979,10
+93,Phatthalung,1980,8
+93,Phatthalung,1981,21
+93,Phatthalung,1982,13
+93,Phatthalung,1983,9
+93,Phatthalung,1984,14
+93,Phatthalung,1985,17
+93,Phatthalung,1986,12
+93,Phatthalung,1987,21
+93,Phatthalung,1988,9
+93,Phatthalung,1989,11
+93,Phatthalung,1990,17
+93,Phatthalung,1991,14
+93,Phatthalung,1992,11
+93,Phatthalung,1993,12
+93,Phatthalung,1994,10
+93,Phatthalung,1995,11
+93,Phatthalung,1996,13
+93,Phatthalung,1997,14
+93,Phatthalung,1998,9
+93,Phatthalung,1999,13
+93,Phatthalung,2000,16
+93,Phatthalung,2001,13
+93,Phatthalung,2002,13
+93,Phatthalung,2003,13
+93,Phatthalung,2004,18
+93,Phatthalung,2005,17
+93,Phatthalung,2006,9
+93,Phatthalung,2007,13
+93,Phatthalung,2008,10
+93,Phatthalung,2009,14
+93,Phatthalung,2010,11
+93,Phatthalung,2011,11
+93,Phatthalung,2012,21
+93,Phatthalung,2013,13
+93,Phatthalung,2014,8
+93,Phatthalung,2015,12
+93,Phatthalung,2016,14
+93,Phatthalung,2017,12
+93,Phatthalung,2018,13
+93,Phatthalung,2019,15
+93,Phatthalung,2020,10
+93,Phatthalung,2021,13
+93,Phatthalung,2022,9
+93,Phatthalung,2023,8
+94,Pattani,1979,10
+94,Pattani,1980,9
+94,Pattani,1981,19
+94,Pattani,1982,12
+94,Pattani,1983,11
+94,Pattani,1984,14
+94,Pattani,1985,17
+94,Pattani,1986,11
+94,Pattani,1987,20
+94,Pattani,1988,10
+94,Pattani,1989,10
+94,Pattani,1990,18
+94,Pattani,1991,15
+94,Pattani,1992,11
+94,Pattani,1993,13
+94,Pattani,1994,10
+94,Pattani,1995,10
+94,Pattani,1996,14
+94,Pattani,1997,13
+94,Pattani,1998,12
+94,Pattani,1999,13
+94,Pattani,2000,15
+94,Pattani,2001,14
+94,Pattani,2002,12
+94,Pattani,2003,13
+94,Pattani,2004,14
+94,Pattani,2005,13
+94,Pattani,2006,10
+94,Pattani,2007,14
+94,Pattani,2008,10
+94,Pattani,2009,16
+94,Pattani,2010,11
+94,Pattani,2011,13
+94,Pattani,2012,18
+94,Pattani,2013,14
+94,Pattani,2014,9
+94,Pattani,2015,13
+94,Pattani,2016,12
+94,Pattani,2017,11
+94,Pattani,2018,12
+94,Pattani,2019,13
+94,Pattani,2020,11
+94,Pattani,2021,12
+94,Pattani,2022,10
+94,Pattani,2023,8
+95,Yala,1979,10
+95,Yala,1980,11
+95,Yala,1981,18
+95,Yala,1982,12
+95,Yala,1983,12
+95,Yala,1984,11
+95,Yala,1985,16
+95,Yala,1986,10
+95,Yala,1987,20
+95,Yala,1988,11
+95,Yala,1989,11
+95,Yala,1990,19
+95,Yala,1991,17
+95,Yala,1992,11
+95,Yala,1993,12
+95,Yala,1994,10
+95,Yala,1995,9
+95,Yala,1996,14
+95,Yala,1997,12
+95,Yala,1998,15
+95,Yala,1999,16
+95,Yala,2000,16
+95,Yala,2001,14
+95,Yala,2002,12
+95,Yala,2003,12
+95,Yala,2004,13
+95,Yala,2005,12
+95,Yala,2006,10
+95,Yala,2007,16
+95,Yala,2008,11
+95,Yala,2009,19
+95,Yala,2010,12
+95,Yala,2011,13
+95,Yala,2012,18
+95,Yala,2013,15
+95,Yala,2014,8
+95,Yala,2015,12
+95,Yala,2016,10
+95,Yala,2017,13
+95,Yala,2018,12
+95,Yala,2019,12
+95,Yala,2020,11
+95,Yala,2021,12
+95,Yala,2022,11
+95,Yala,2023,7
+96,Narathiwat,1979,9
+96,Narathiwat,1980,10
+96,Narathiwat,1981,19
+96,Narathiwat,1982,10
+96,Narathiwat,1983,10
+96,Narathiwat,1984,10
+96,Narathiwat,1985,24
+96,Narathiwat,1986,9
+96,Narathiwat,1987,16
+96,Narathiwat,1988,9
+96,Narathiwat,1989,12
+96,Narathiwat,1990,21
+96,Narathiwat,1991,16
+96,Narathiwat,1992,10
+96,Narathiwat,1993,14
+96,Narathiwat,1994,9
+96,Narathiwat,1995,10
+96,Narathiwat,1996,14
+96,Narathiwat,1997,12
+96,Narathiwat,1998,14
+96,Narathiwat,1999,12
+96,Narathiwat,2000,16
+96,Narathiwat,2001,14
+96,Narathiwat,2002,11
+96,Narathiwat,2003,12
+96,Narathiwat,2004,12
+96,Narathiwat,2005,13
+96,Narathiwat,2006,9
+96,Narathiwat,2007,12
+96,Narathiwat,2008,11
+96,Narathiwat,2009,16
+96,Narathiwat,2010,11
+96,Narathiwat,2011,12
+96,Narathiwat,2012,13
+96,Narathiwat,2013,13
+96,Narathiwat,2014,9
+96,Narathiwat,2015,14
+96,Narathiwat,2016,13
+96,Narathiwat,2017,10
+96,Narathiwat,2018,12
+96,Narathiwat,2019,12
+96,Narathiwat,2020,17
+96,Narathiwat,2021,12
+96,Narathiwat,2022,11
+96,Narathiwat,2023,6
